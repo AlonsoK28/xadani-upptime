@@ -17,7 +17,7 @@ sites:
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

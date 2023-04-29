@@ -4,19 +4,19 @@
     "url": "https://www.xadani.com.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png",
     "slug": "xadani",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 397,
-    "timeDay": 477,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 384,
+    "timeDay": 378,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sterilite.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite",
     "slug": "sterilite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 341,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 371,
+    "timeDay": 329,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-04-29": 0
+      "2023-04-29": 18
     }
   },
   {

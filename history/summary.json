@@ -4,11 +4,11 @@
     "url": "https://www.xadani.com.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png",
     "slug": "xadani",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 738,
     "timeDay": 328,
@@ -16,6 +16,7 @@
     "timeMonth": 837,
     "timeYear": 738,
     "dailyMinutesDown": {
+      "2023-05-31": 2,
       "2023-05-06": 18,
       "2023-05-04": 23,
       "2023-04-29": 19
@@ -26,10 +27,10 @@
     "url": "https://sterilite.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite",
     "slug": "sterilite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 618,
@@ -38,6 +39,7 @@
     "timeMonth": 704,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2023-05-31": 1,
       "2023-04-29": 18
     }
   },
@@ -46,10 +48,10 @@
     "url": "https://cajas-de-plastico.com",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico",
     "slug": "cajas-de-plastico",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
@@ -57,16 +59,18 @@
     "timeWeek": 942,
     "timeMonth": 612,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-31": 1
+    }
   },
   {
     "name": "barreras-vehiculares",
     "url": "https://barreras-vehiculares.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +79,8 @@
     "timeWeek": 290,
     "timeMonth": 346,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-31": 0
+    }
   }
 ]

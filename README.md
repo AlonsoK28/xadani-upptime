@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Go to xadani-upptime status website →**](https://alonsok28.github.io/xadani-upptime/)
 
 ## 📄 License
 

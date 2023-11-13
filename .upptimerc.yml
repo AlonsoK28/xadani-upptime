@@ -6,17 +6,33 @@ sites:
   - name: xadani
     url: https://www.xadani.com.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
+   
+  - name: xadani-api
+    url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
     
   - name: sterilite
     url: https://sterilite.mx
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite
+
+  - name: sterilite-api
+    url: https://sterilite.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico
+
+  - name: cajas-de-plastico-api
+    url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+
+  - name: barreras-vehiculares-api
+    url: https://barreras-vehiculares.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     
 status-website:

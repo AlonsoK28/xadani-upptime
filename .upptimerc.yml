@@ -10,6 +10,10 @@ sites:
   - name: xadani-api
     url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
+
+  - name: xadani-email
+    url: https://www.xadani.com.mx/modulos/controller/contacto.php?funcion=sendTestingEmail
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
     
   - name: sterilite
     url: https://sterilite.mx

@@ -37,7 +37,7 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
 
   - name: barreras-vehiculares-api
-    url: https://barreras-vehiculares.mx/api/producto/cajas%20de%20plastico
+    url: https://barreras-vehiculares.mx/api/producto/barreras
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     
 status-website:

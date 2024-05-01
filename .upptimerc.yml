@@ -5,32 +5,32 @@ repo: xadani-upptime # The name of this repository
 sites:
   - name: xadani
     url: https://www.xadani.com.mx
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
    
   - name: xadani-api
     url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
 
   - name: xadani-email
     url: https://www.xadani.com.mx/modulos/controller/contacto.php?funcion=sendTestingEmail
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556506394/assets/favicon/xadani/xadani.png
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     method: POST
     
   - name: sterilite
     url: https://sterilite.mx
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
 
   - name: sterilite-api
     url: https://sterilite.mx/api/producto/cajas%20de%20plastico
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1543876497/assets/favicon/sterilite/sterilite
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
 
   - name: cajas-de-plastico-api
     url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1542061177/assets/favicon/cajas-de-plastico/favicon.ico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx

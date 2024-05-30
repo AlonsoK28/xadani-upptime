@@ -5,14 +5,14 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico",
     "slug": "xadani",
     "status": "up",
-    "uptime": "88.57%",
+    "uptime": "88.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.51%",
-    "time": 811,
-    "timeDay": 443,
-    "timeWeek": 497,
+    "time": 810,
+    "timeDay": 414,
+    "timeWeek": 484,
     "timeMonth": 476,
     "timeYear": 818,
     "dailyMinutesDown": {
@@ -67,8 +67,7 @@
       "2023-11-10": 29,
       "2023-10-19": 17,
       "2023-10-16": 20,
-      "2023-09-01": 53,
-      "2023-05-31": 246
+      "2023-09-01": 53
     }
   },
   {
@@ -77,14 +76,14 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico",
     "slug": "xadani-api",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.74%",
     "time": 64,
-    "timeDay": 79,
-    "timeWeek": 68,
+    "timeDay": 60,
+    "timeWeek": 65,
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -105,14 +104,14 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico",
     "slug": "xadani-email",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "95.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.97%",
+    "uptimeYear": "95.00%",
     "time": 144,
-    "timeDay": 177,
-    "timeWeek": 144,
+    "timeDay": 214,
+    "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -143,16 +142,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 418,
-    "timeDay": 329,
-    "timeWeek": 376,
-    "timeMonth": 342,
-    "timeYear": 396,
+    "time": 417,
+    "timeDay": 276,
+    "timeWeek": 365,
+    "timeMonth": 339,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2024-02-24": 70,
       "2024-02-23": 45,
-      "2023-09-01": 52,
-      "2023-05-31": 236
+      "2023-09-01": 52
     }
   },
   {
@@ -167,8 +165,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 72,
-    "timeDay": 63,
-    "timeWeek": 58,
+    "timeDay": 49,
+    "timeWeek": 56,
     "timeMonth": 59,
     "timeYear": 72,
     "dailyMinutesDown": {
@@ -188,15 +186,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 426,
-    "timeDay": 463,
-    "timeWeek": 373,
-    "timeMonth": 359,
+    "timeDay": 312,
+    "timeWeek": 376,
+    "timeMonth": 356,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2024-02-24": 70,
       "2024-02-23": 44,
-      "2023-09-01": 52,
-      "2023-05-31": 233
+      "2023-09-01": 52
     }
   },
   {
@@ -211,9 +208,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 70,
-    "timeDay": 69,
-    "timeWeek": 60,
-    "timeMonth": 61,
+    "timeDay": 56,
+    "timeWeek": 58,
+    "timeMonth": 60,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2024-02-24": 70,
@@ -232,15 +229,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 470,
-    "timeDay": 430,
-    "timeWeek": 372,
-    "timeMonth": 397,
+    "timeDay": 277,
+    "timeWeek": 357,
+    "timeMonth": 393,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-02-24": 70,
       "2024-02-23": 43,
-      "2023-09-01": 51,
-      "2023-05-31": 233
+      "2023-09-01": 51
     }
   },
   {
@@ -249,14 +245,14 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-api",
     "status": "up",
-    "uptime": "78.76%",
+    "uptime": "78.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.76%",
+    "uptimeYear": "78.87%",
     "time": 138,
-    "timeDay": 64,
-    "timeWeek": 60,
+    "timeDay": 57,
+    "timeWeek": 58,
     "timeMonth": 62,
     "timeYear": 138,
     "dailyMinutesDown": {

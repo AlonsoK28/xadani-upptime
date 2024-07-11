@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/modulos/controller/contacto.php?funcion=sendTestingEmail
-status: down
-code: 500
-responseTime: 34
-lastUpdated: 2024-07-11T05:18:53.474Z
+status: up
+code: 200
+responseTime: 227
+lastUpdated: 2024-07-11T21:19:51.565Z
 startTime: 2023-11-22T19:43:18.907Z
 generator: Upptime <https://github.com/upptime/upptime>

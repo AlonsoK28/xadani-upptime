@@ -5,15 +5,15 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico",
     "slug": "xadani",
     "status": "up",
-    "uptime": "92.05%",
+    "uptime": "92.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.20%",
     "time": 697,
-    "timeDay": 472,
-    "timeWeek": 1010,
-    "timeMonth": 633,
+    "timeDay": 445,
+    "timeWeek": 469,
+    "timeMonth": 631,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2024-09-17": 68,
@@ -66,8 +66,7 @@
       "2024-02-23": 44,
       "2024-01-26": 54,
       "2023-12-11": 1176,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -82,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
     "time": 66,
-    "timeDay": 65,
-    "timeWeek": 62,
-    "timeMonth": 65,
+    "timeDay": 56,
+    "timeWeek": 63,
+    "timeMonth": 64,
     "timeYear": 67,
     "dailyMinutesDown": {
       "2024-09-26": 219,
@@ -97,8 +96,7 @@
       "2024-02-23": 46,
       "2024-01-26": 53,
       "2023-12-11": 1176,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -113,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
     "time": 246,
-    "timeDay": 198,
-    "timeWeek": 198,
+    "timeDay": 205,
+    "timeWeek": 210,
     "timeMonth": 194,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -129,8 +127,7 @@
       "2024-02-23": 46,
       "2024-01-26": 53,
       "2023-12-11": 1176,
-      "2023-12-10": 1440,
-      "2023-12-09": 1440
+      "2023-12-10": 1440
     }
   },
   {
@@ -139,15 +136,15 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico",
     "slug": "sterilite",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.45%",
     "uptimeYear": "98.27%",
     "time": 394,
-    "timeDay": 342,
-    "timeWeek": 383,
-    "timeMonth": 388,
+    "timeDay": 311,
+    "timeWeek": 389,
+    "timeMonth": 384,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2024-11-23": 105,
@@ -176,9 +173,9 @@
     "uptimeMonth": "91.45%",
     "uptimeYear": "98.27%",
     "time": 68,
-    "timeDay": 62,
-    "timeWeek": 66,
-    "timeMonth": 65,
+    "timeDay": 59,
+    "timeWeek": 67,
+    "timeMonth": 64,
     "timeYear": 68,
     "dailyMinutesDown": {
       "2024-11-23": 105,
@@ -207,9 +204,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 428,
-    "timeDay": 346,
-    "timeWeek": 390,
-    "timeMonth": 406,
+    "timeDay": 288,
+    "timeWeek": 383,
+    "timeMonth": 402,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2024-02-24": 70,
@@ -228,9 +225,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 68,
-    "timeDay": 58,
-    "timeWeek": 62,
-    "timeMonth": 64,
+    "timeDay": 53,
+    "timeWeek": 64,
+    "timeMonth": 63,
     "timeYear": 69,
     "dailyMinutesDown": {
       "2024-07-15": 70,
@@ -250,9 +247,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 482,
-    "timeDay": 421,
+    "timeDay": 335,
     "timeWeek": 442,
-    "timeMonth": 451,
+    "timeMonth": 444,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-09-10": 99,
@@ -271,14 +268,14 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-api",
     "status": "up",
-    "uptime": "88.29%",
+    "uptime": "88.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.49%",
     "time": 103,
-    "timeDay": 56,
-    "timeWeek": 59,
+    "timeDay": 60,
+    "timeWeek": 62,
     "timeMonth": 65,
     "timeYear": 106,
     "dailyMinutesDown": {

@@ -275,18 +275,18 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico",
     "slug": "sterilite-stripe-create-chekout",
     "status": "down",
-    "uptime": "1.56%",
-    "uptimeDay": "1.56%",
-    "uptimeWeek": "1.56%",
-    "uptimeMonth": "1.56%",
-    "uptimeYear": "1.56%",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
     "time": 53,
     "timeDay": 53,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 1
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico",
     "slug": "sterilite-stripe-order-details",
     "status": "down",
-    "uptime": "3.15%",
-    "uptimeDay": "3.15%",
-    "uptimeWeek": "3.15%",
-    "uptimeMonth": "3.15%",
-    "uptimeYear": "3.15%",
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
     "time": 56,
     "timeDay": 56,
     "timeWeek": 56,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 1
     }
   },
   {
@@ -326,7 +326,7 @@
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 1
     }
   },
   {

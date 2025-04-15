@@ -23,6 +23,27 @@ sites:
   - name: sterilite-api
     url: https://sterilite.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+
+  - name: sterilite-stripe-create-chekout
+    url: https://sterilite.mx/create-checkout-stripe
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+    
+  - name: sterilite-stripe-order-details
+    url: https://sterilite.mx/order-details/0987654321
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+    
+  - name: sterilite-stripe-webhook-stripe
+    url: https://sterilite.mx/webhook-stripe
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com

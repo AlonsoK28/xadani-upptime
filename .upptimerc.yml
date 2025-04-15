@@ -38,8 +38,22 @@ sites:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
     
-  - name: sterilite-stripe-webhook-stripe
+  - name: sterilite-stripe-webhook
     url: https://sterilite.mx/webhook-stripe
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+    
+  - name: sterilite-admin-api-batch
+    url: https://sterilite.mx/admin-api-batch/test
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+
+  - name: sterilite-admin-api-keywords
+    url: https://sterilite.mx/admin-api-keywords/test
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"

@@ -18,14 +18,14 @@ sites:
 
   - name: xadani-admin-api-batch
     url: https://www.xadani.com.mx/admin-api-batch/test
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: xadani-admin-api-keywords
     url: https://www.xadani.com.mx/admin-api-keywords/test
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"

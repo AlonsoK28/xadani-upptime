@@ -1,7 +1,7 @@
 url: https://sterilite.mx/admin-api-batch/test
-status: up
-code: 200
-responseTime: 53
-lastUpdated: 2025-04-24T23:18:38.032Z
+status: down
+code: 404
+responseTime: 25
+lastUpdated: 2025-04-25T20:26:04.408Z
 startTime: 2025-04-15T22:43:00.026Z
 generator: Upptime <https://github.com/upptime/upptime>

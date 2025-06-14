@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/admin-api-batch/test
-status: up
-code: 200
-responseTime: 192
-lastUpdated: 2025-06-14T06:32:31.559Z
+status: down
+code: 404
+responseTime: 45
+lastUpdated: 2025-06-14T07:21:49.734Z
 startTime: 2025-04-15T23:43:05.897Z
 generator: Upptime <https://github.com/upptime/upptime>

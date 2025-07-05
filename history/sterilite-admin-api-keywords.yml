@@ -1,7 +1,7 @@
-url: https://sterilite.mx/admin-api-keywords/test
-status: down
-code: 404
-responseTime: 32
-lastUpdated: 2025-07-05T23:20:39.215Z
+url: https://sterilite.mx/modulos/controller/api/v2/keywords.php
+status: up
+code: 200
+responseTime: 47
+lastUpdated: 2025-07-05T23:43:27.788Z
 startTime: 2025-04-15T22:43:00.403Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -17,14 +17,14 @@ sites:
     method: POST
 
   - name: xadani-admin-api-batch
-    url: https://www.xadani.com.mx/admin-api-batch/test
+    url: https://www.xadani.com.mx/modulos/controller/api/v2/batch.php
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: xadani-admin-api-keywords
-    url: https://www.xadani.com.mx/admin-api-keywords/test
+    url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
@@ -60,14 +60,14 @@ sites:
     - "Content-Type: application/json"
     
   - name: sterilite-admin-api-batch
-    url: https://sterilite.mx/admin-api-batch/test
+    url: https://sterilite.mx/modulos/controller/api/v2/batch.php
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: sterilite-admin-api-keywords
-    url: https://sterilite.mx/admin-api-keywords/test
+    url: https://sterilite.mx/modulos/controller/api/v2/keywords.php
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"

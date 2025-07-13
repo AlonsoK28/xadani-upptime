@@ -84,6 +84,20 @@ sites:
   - name: cajas-de-plastico-api
     url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+
+  - name: cajas-de-plastico-admin-api-batch
+    url: https://cajas-de-plastico.com/modulos/controller/api/v2/batch.php
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+    headers:
+    - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+
+  - name: cajas-de-plastico-admin-api-keywords
+    url: https://cajas-de-plastico.com/modulos/controller/api/v2/keywords.php
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+    headers:
+    - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
+    - "Content-Type: application/json"
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
@@ -92,6 +106,20 @@ sites:
   - name: barreras-vehiculares-api
     url: https://barreras-vehiculares.mx/api/producto/barreras
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+
+  - name: barreras-vehiculares-admin-api-batch
+    url: https://barreras-vehiculares.mx/modulos/controller/api/v2/batch.php
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    headers:
+    - "x-heart-beat: $BARRERAS_VEHICULARES_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+
+  - name: barreras-vehiculares-admin-api-keywords
+    url: https://barreras-vehiculares.mx/modulos/controller/api/v2/keywords.php
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    headers:
+    - "x-heart-beat: $BARRERAS_VEHICULARES_DOMAIN_SECRET"
+    - "Content-Type: application/json"
 
   - name: verificador-precios
     url: https://verificador-precios.mx

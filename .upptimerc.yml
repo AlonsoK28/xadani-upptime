@@ -74,6 +74,41 @@ sites:
     url: https://www.xadani.com.mx/mi-ecommerce.html
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Crea tu tienda online: La mejor plataforma de eCommerce</title>"
+  
+  - name: xadani-list-1
+    url: https://www.xadani.com.mx/mejores-marcas-de-herramientas/l
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>⚡  Mejores marcas de herramientas</title>"
+  
+  - name: xadani-cotizacion
+    url: https://www.xadani.com.mx/cotizacion.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Pídenos una cotización</title>"
+  
+  - name: xadani-contacto
+    url: https://www.xadani.com.mx/contacto.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Haznos llegar tu opinión</title>"
+  
+  - name: xadani-categoria
+    url: https://www.xadani.com.mx/categoria/hogar/pagina1.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Categoría de Hogar</title>"
+  
+  - name: xadani-subcategoria
+    url: https://www.xadani.com.mx/subcategoria/almacenamiento/pagina1.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Subcategoría de Almacenamiento</title>"
+  
+  - name: xadani-busqueda
+    url: https://www.xadani.com.mx/buscar/cajas/pagina1.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Resultados para su búsqueda de cajas</title>"
+  
+  - name: xadani-marca
+    url: https://www.xadani.com.mx/marca/sterilite/pagina1.html
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Sterilite en Xadani</title>"
     
   - name: sterilite
     url: https://sterilite.mx
@@ -127,6 +162,11 @@ sites:
     url: https://sterilite.mx/caja-con-tapa-de-bisagras-de-uso-rudo-45-litros/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Caja con tapa de bisagras de uso rudo 45 litros</title>"
+  
+  - name: sterilite-list-1
+    url: https://sterilite.mx/paga-tus-productos-en-linea/l
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>🛍️ Compra Productos Sterilite en Línea - Pago Seguro</title>"
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com
@@ -149,6 +189,22 @@ sites:
     headers:
     - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
     - "Content-Type: application/json"
+
+  - name: cajas-de-plastico-product-1
+    url: https://cajas-de-plastico.com/contenedor-de-almacenamiento-apilable-rubbermaid/p
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Contenedor de almacenamiento apilable Rubbermaid</title>"
+  
+  - name: cajas-de-plastico-product-2
+    url: https://cajas-de-plastico.com/cajas-de-almacenamiento-con-cerradura-de-24-galones-rubbermaid/p
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Cajas de almacenamiento con cerradura de 24 galones Rubbermaid</title>"
+  
+  - name: cajas-de-plastico-list-1
+    url: https://cajas-de-plastico.com/catalogo-de-cajas-de-almacenamiento-de-la-marca-rubbermaid/l
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>⚡ Cajas de Plástico | catalogo de cajas de almacenamiento de la marca rubbermaid</title>"
+
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
@@ -171,6 +227,22 @@ sites:
     headers:
     - "x-heart-beat: $BARRERAS_VEHICULARES_DOMAIN_SECRET"
     - "Content-Type: application/json"
+
+  - name: barreras-vehiculares-product-1
+    url: https://barreras-vehiculares.mx/barrera-vehicular-automatica-gard8-para-mastil-de-hasta-7-metros-came/p
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular automática GARD8 para mástil de hasta 7.6 metros  CAME</title>"
+  
+  - name: barreras-vehiculares-product-2
+    url: https://barreras-vehiculares.mx/barrera-vehicular-came-alto-rendimiento-con-brazo-de-hasta-4-mts/p
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular  CAME Alto Rendimiento con Brazo de Hasta 4 Mts</title>"
+  
+  - name: barreras-vehiculares-service-2
+    url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Instalacion de barreras vehiculares</title>"
+
 
   - name: verificador-precios
     url: https://verificador-precios.mx

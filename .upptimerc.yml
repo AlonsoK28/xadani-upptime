@@ -121,12 +121,12 @@ sites:
   - name: sterilite-product-1
     url: https://sterilite.mx/mini-contenedor-de-almacenamiento-sterilite/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Mini contenedor de almacenamiento Sterilite 987654321</title>"
+    __dangerous__body_down_if_text_missing: "<title>Mini contenedor de almacenamiento Sterilite</title>"
 
   - name: sterilite-product-2
     url: https://sterilite.mx/caja-con-tapa-de-bisagras-de-uso-rudo-45-litros/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Caja con tapa de bisagras de uso rudo 45 litros 12345678</title>"
+    __dangerous__body_down_if_text_missing: "<title>Caja con tapa de bisagras de uso rudo 45 litros</title>"
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com

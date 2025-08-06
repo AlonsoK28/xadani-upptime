@@ -76,12 +76,12 @@ sites:
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Soluciones empresariales para el Servicio de instalacion de barreras vehiculares orientados a espacios como Oficinas, Centros comerciales y Hospitales">'
     
   - name: xadani-service-2-title
-    url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
+    url: https://www.xadani.com.mx/instalacion-plafon-corrido/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Instalación de Plafón Corrido | Plafones de Tablaroca Profesionales</title>"
   
   - name: xadani-service-2-description
-    url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
+    url: https://www.xadani.com.mx/instalacion-plafon-corrido/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio profesional de instalación de plafón corrido en interiores. Plafones de tablaroca modernos, funcionales y con acabados de alta calidad.">'
 

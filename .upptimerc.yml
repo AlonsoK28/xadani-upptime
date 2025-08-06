@@ -74,7 +74,17 @@ sites:
     url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Soluciones empresariales para el Servicio de instalacion de barreras vehiculares orientados a espacios como Oficinas, Centros comerciales y Hospitales">'
+    
+  - name: xadani-service-2-title
+    url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Instalación de Plafón Corrido | Plafones de Tablaroca Profesionales</title>"
   
+  - name: xadani-service-2-description
+    url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio profesional de instalación de plafón corrido en interiores. Plafones de tablaroca modernos, funcionales y con acabados de alta calidad.">'
+
   - name: xadani-ecommerce
     url: https://www.xadani.com.mx/mi-ecommerce.html
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
@@ -168,10 +178,16 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Caja con tapa de bisagras de uso rudo 45 litros</title>"
   
-  - name: sterilite-list-1
+  - name: sterilite-list-1-title
     url: https://sterilite.mx/paga-tus-productos-en-linea/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>🛍️ Compra Productos Sterilite en Línea - Pago Seguro</title>"
+  
+  - name: sterilite-list-1-description
+    url: https://sterilite.mx/paga-tus-productos-en-linea/l
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: '<meta name="description" content="Ahora puedes pagar en línea tus productos Sterilite favoritos. Compra fácil, rápido y seguro. ¡Organiza tu hogar sin complicaciones! 🚀">'
+    
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com

@@ -258,15 +258,25 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular  CAME Alto Rendimiento con Brazo de Hasta 4 Mts</title>"
   
-  - name: barreras-vehiculares-service-2-title
+  - name: barreras-vehiculares-service-1-title
     url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Instalacion de barreras vehiculares</title>"
   
-  - name: barreras-vehiculares-service-2-description
+  - name: barreras-vehiculares-service-1-description
     url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Instalacion de barreras vehiculares">'
+  
+  - name: barreras-vehiculares-service-2-title
+    url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Servicio de instalacion de barreras vehiculares en zonas residenciales</title>"
+  
+  - name: barreras-vehiculares-service-2-description
+    url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio de instalacion de barreras vehiculares en zonas residenciales">'
 
   - name: verificador-precios
     url: https://verificador-precios.mx

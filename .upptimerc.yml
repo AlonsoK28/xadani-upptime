@@ -139,6 +139,18 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+  
+  - name: sterilite-stripe-create-payment-intent
+    url: https://sterilite.mx/create-payment-intent
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+  
+  - name: sterilite-stripe-checkout-form
+    url: https://sterilite.mx/checkout
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra | Sterilite Checkout</title>"
     
   - name: sterilite-stripe-order-details
     url: https://sterilite.mx/order-details/0987654321

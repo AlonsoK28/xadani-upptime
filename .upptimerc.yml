@@ -158,7 +158,7 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: "Información de su pedido #256145 del 05-09-2025"
+    __dangerous__body_down_if_text_missing: "<title>Información de su pedido #256145 del 05-09-2025</title>"
     
   - name: sterilite-stripe-webhook
     url: https://sterilite.mx/webhook-stripe

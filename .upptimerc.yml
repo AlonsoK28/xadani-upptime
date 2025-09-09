@@ -155,9 +155,6 @@ sites:
   - name: sterilite-stripe-order-details
     url: https://sterilite.mx/v2/order-details/pi_3S47NvLmPLt9oJeN0kPX7FcH
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
-    headers:
-    - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
-    - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: "<title>Información de su pedido #256145 del 05-09-2025</title>"
     
   - name: sterilite-stripe-webhook

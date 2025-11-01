@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/order-details/0987654321
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-01T21:21:32.709Z
+status: up
+code: 200
+responseTime: 99
+lastUpdated: 2025-11-01T22:20:50.346Z
 startTime: 2025-07-13T01:22:51.336Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -6,10 +6,14 @@ sites:
   - name: xadani
     url: https://www.xadani.com.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    expectedStatusCodes:
+      - 200
    
   - name: xadani-api
     url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-email
     url: https://www.xadani.com.mx/modulos/controller/contacto.php?funcion=sendTestingEmail
@@ -19,6 +23,8 @@ sites:
     - "x-secret: $XADANI_API_SECRET-$XADANI_DOMAIN_SECRET"
     - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-stripe-create-chekout
     url: https://www.xadani.com.mx/create-checkout-stripe
@@ -26,6 +32,8 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-stripe-create-payment-intent
     url: https://www.xadani.com.mx/create-payment-intent
@@ -33,6 +41,8 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
     
   - name: xadani-stripe-order-details
     url: https://www.xadani.com.mx/order-details/0987654321
@@ -40,6 +50,8 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-stripe-webhook
     url: https://www.xadani.com.mx/webhook-stripe
@@ -47,6 +59,8 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-admin-api-batch
     url: https://www.xadani.com.mx/modulos/controller/api/v2/batch.php
@@ -54,6 +68,8 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-admin-api-keywords
     url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
@@ -66,16 +82,22 @@ sites:
     url: https://www.xadani.com.mx/griddler-de-color-plata/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Griddler de color plata</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: xadani-product-2
     url: https://www.xadani.com.mx/dispensador-de-doble-camara/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Dispensador de doble cámara</title>"
+    expectedStatusCodes:
+      - 200
 
   - name: xadani-service-1-title
     url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Servicio de instalacion de barreras vehiculares</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: xadani-service-1-description
     url: https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s
@@ -135,10 +157,14 @@ sites:
   - name: sterilite
     url: https://sterilite.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: sterilite-api
     url: https://sterilite.mx/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: sterilite-stripe-create-chekout
     url: https://sterilite.mx/create-checkout-stripe
@@ -146,6 +172,8 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
   
   - name: sterilite-stripe-create-payment-intent
     url: https://sterilite.mx/create-payment-intent
@@ -153,16 +181,22 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
   
   - name: sterilite-stripe-checkout-form
     url: https://sterilite.mx/checkout
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra | Sterilite Checkout</title>"
+    expectedStatusCodes:
+      - 200
     
   - name: sterilite-stripe-order-details
     url: https://sterilite.mx/v2/order-details/pi_3S47NvLmPLt9oJeN0kPX7FcH
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Información de su pedido #256145 del 05-09-2025</title>"
+    expectedStatusCodes:
+      - 200
     
   - name: sterilite-stripe-webhook
     url: https://sterilite.mx/webhook-stripe
@@ -170,6 +204,8 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
     
   - name: sterilite-admin-api-batch
     url: https://sterilite.mx/modulos/controller/api/v2/batch.php
@@ -177,6 +213,8 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: sterilite-admin-api-keywords
     url: https://sterilite.mx/modulos/controller/api/v2/keywords.php
@@ -184,35 +222,49 @@ sites:
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: sterilite-product-1
     url: https://sterilite.mx/mini-contenedor-de-almacenamiento-sterilite/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Mini contenedor de almacenamiento Sterilite</title>"
+    expectedStatusCodes:
+      - 200
 
   - name: sterilite-product-2
     url: https://sterilite.mx/caja-con-tapa-de-bisagras-de-uso-rudo-45-litros/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Caja con tapa de bisagras de uso rudo 45 litros</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: sterilite-list-1-title
     url: https://sterilite.mx/paga-tus-productos-en-linea/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>🛍️ Compra Productos Sterilite en Línea - Pago Seguro</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: sterilite-list-1-description
     url: https://sterilite.mx/paga-tus-productos-en-linea/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Ahora puedes pagar en línea tus productos Sterilite favoritos. Compra fácil, rápido y seguro. ¡Organiza tu hogar sin complicaciones! 🚀">'
+    expectedStatusCodes:
+      - 200
     
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: cajas-de-plastico-api
     url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: cajas-de-plastico-admin-api-batch
     url: https://cajas-de-plastico.com/modulos/controller/api/v2/batch.php
@@ -220,6 +272,8 @@ sites:
     headers:
     - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: cajas-de-plastico-admin-api-keywords
     url: https://cajas-de-plastico.com/modulos/controller/api/v2/keywords.php
@@ -227,29 +281,41 @@ sites:
     headers:
     - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: cajas-de-plastico-product-1
     url: https://cajas-de-plastico.com/contenedor-de-almacenamiento-apilable-rubbermaid/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Contenedor de almacenamiento apilable Rubbermaid</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: cajas-de-plastico-product-2
     url: https://cajas-de-plastico.com/cajas-de-almacenamiento-con-cerradura-de-24-galones-rubbermaid/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Cajas de almacenamiento con cerradura de 24 galones Rubbermaid</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: cajas-de-plastico-list-1
     url: https://cajas-de-plastico.com/catalogo-de-cajas-de-almacenamiento-de-la-marca-rubbermaid/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>⚡ Cajas de Plástico | catalogo de cajas de almacenamiento de la marca rubbermaid</title>"
+    expectedStatusCodes:
+      - 200
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    expectedStatusCodes:
+      - 200
 
   - name: barreras-vehiculares-api
     url: https://barreras-vehiculares.mx/api/producto/barreras
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    expectedStatusCodes:
+      - 200
 
   - name: barreras-vehiculares-admin-api-batch
     url: https://barreras-vehiculares.mx/modulos/controller/api/v2/batch.php
@@ -257,6 +323,8 @@ sites:
     headers:
     - "x-heart-beat: $BARRERAS_VEHICULARES_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: barreras-vehiculares-admin-api-keywords
     url: https://barreras-vehiculares.mx/modulos/controller/api/v2/keywords.php
@@ -264,56 +332,80 @@ sites:
     headers:
     - "x-heart-beat: $BARRERAS_VEHICULARES_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
   - name: barreras-vehiculares-product-1
     url: https://barreras-vehiculares.mx/barrera-vehicular-automatica-gard8-para-mastil-de-hasta-7-metros-came/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular automática GARD8 para mástil de hasta 7.6 metros  CAME</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: barreras-vehiculares-product-2
     url: https://barreras-vehiculares.mx/barrera-vehicular-came-alto-rendimiento-con-brazo-de-hasta-4-mts/p
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular  CAME Alto Rendimiento con Brazo de Hasta 4 Mts</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: barreras-vehiculares-service-1-title
     url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Instalacion de barreras vehiculares</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: barreras-vehiculares-service-1-description
     url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Instalacion de barreras vehiculares">'
+    expectedStatusCodes:
+      - 200
   
   - name: barreras-vehiculares-service-2-title
     url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Servicio de instalacion de barreras vehiculares en zonas residenciales</title>"
+    expectedStatusCodes:
+      - 200
   
   - name: barreras-vehiculares-service-2-description
     url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio de instalacion de barreras vehiculares en zonas residenciales">'
+    expectedStatusCodes:
+      - 200
 
   - name: verificador-precios
     url: https://verificador-precios.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    expectedStatusCodes:
+      - 200
   
   - name: verificador-precios software
     url: https://verificador-precios.mx/software/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: verificador-precios pospal
     url: https://verificador-precios.mx/verificador-precios-integracion-pospal/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: consultoria-angular
     url: https://consultoria-angular.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    expectedStatusCodes:
+      - 200
 
   - name: punto-facturacion
     url: https://punto-facturacion.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    expectedStatusCodes:
+      - 200
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -1,7 +1,7 @@
 url: https://sterilite.mx/v2/order-details/pi_3S47NvLmPLt9oJeN0kPX7FcH
-status: up
-code: 200
-responseTime: 178
-lastUpdated: 2025-11-07T23:18:45.252Z
+status: down
+code: 415
+responseTime: 39
+lastUpdated: 2025-11-08T11:19:04.170Z
 startTime: 2025-04-15T06:07:04.427Z
 generator: Upptime <https://github.com/upptime/upptime>

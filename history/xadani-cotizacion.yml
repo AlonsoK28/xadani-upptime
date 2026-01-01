@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/cotizacion.html
-status: up
-code: 200
-responseTime: 77
-lastUpdated: 2025-12-31T23:21:16.371Z
+status: down
+code: 415
+responseTime: 31
+lastUpdated: 2026-01-01T21:25:49.551Z
 startTime: 2025-07-19T20:49:35.812Z
 generator: Upptime <https://github.com/upptime/upptime>

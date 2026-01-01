@@ -1,7 +1,7 @@
 url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
-status: down
-code: 415
-responseTime: 29
-lastUpdated: 2026-01-01T21:26:17.993Z
+status: up
+code: 200
+responseTime: 53
+lastUpdated: 2026-01-01T22:27:29.926Z
 startTime: 2023-11-13T01:38:54.883Z
 generator: Upptime <https://github.com/upptime/upptime>

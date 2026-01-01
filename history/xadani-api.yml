@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico
-status: down
-code: 415
-responseTime: 30
-lastUpdated: 2026-01-01T21:25:28.008Z
+status: up
+code: 200
+responseTime: 55
+lastUpdated: 2026-01-01T22:26:04.335Z
 startTime: 2023-11-13T01:38:51.182Z
 generator: Upptime <https://github.com/upptime/upptime>

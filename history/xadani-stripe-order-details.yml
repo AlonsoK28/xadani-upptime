@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/v2/order-details/pi_3SQGuWPA8RIEn4T31Y9oW0wQ
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2026-01-02T23:21:08.840Z
+status: down
+code: 415
+responseTime: 23
+lastUpdated: 2026-01-03T15:25:31.777Z
 startTime: 2025-07-13T01:22:51.336Z
 generator: Upptime <https://github.com/upptime/upptime>

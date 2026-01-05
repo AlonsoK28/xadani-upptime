@@ -1,7 +1,7 @@
 url: https://sterilite.mx/modulos/controller/api/v2/batch.php
-status: up
-code: 200
-responseTime: 81
-lastUpdated: 2026-01-04T23:21:19.956Z
+status: down
+code: 415
+responseTime: 28
+lastUpdated: 2026-01-05T18:42:06.817Z
 startTime: 2025-04-15T22:43:00.026Z
 generator: Upptime <https://github.com/upptime/upptime>

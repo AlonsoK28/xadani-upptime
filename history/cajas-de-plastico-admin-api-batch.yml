@@ -1,7 +1,7 @@
 url: https://cajas-de-plastico.com/modulos/controller/api/v2/batch.php
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2026-01-04T23:21:23.360Z
+status: down
+code: 415
+responseTime: 29
+lastUpdated: 2026-01-05T18:42:19.253Z
 startTime: 2025-07-13T00:46:26.573Z
 generator: Upptime <https://github.com/upptime/upptime>

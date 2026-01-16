@@ -129,6 +129,11 @@ sites:
     url: https://www.xadani.com.mx/marca/sterilite/pagina1.html
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Sterilite en Xadani</title>"
+
+  - name: xadani-subscription
+    url: https://www.xadani.com.mx/subscription/cs_live_a1l93RxXyTnP9j1bcOHJQeSDNVH4akRDW1hY77jZChmpwevh2UG6I9iCKz
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Detalles de tu suscripción</title>"
     
   - name: sterilite
     url: https://sterilite.mx

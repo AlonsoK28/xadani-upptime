@@ -1,7 +1,7 @@
 url: https://barreras-vehiculares.mx/modulos/controller/api/v2/keywords.php
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2026-02-03T23:30:21.839Z
+status: down
+code: 415
+responseTime: 29
+lastUpdated: 2026-02-04T02:38:55.529Z
 startTime: 2025-07-13T00:46:28.650Z
 generator: Upptime <https://github.com/upptime/upptime>

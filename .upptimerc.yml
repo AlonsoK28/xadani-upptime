@@ -120,10 +120,10 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Xadani | Subcategoría de Almacenamiento</title>"
   
-  - name: xadani-busqueda
-    url: https://www.xadani.com.mx/buscar/cajas/pagina1.html
+  - name: xadani-search
+    url: https://www.xadani.com.mx/search?q=caja+de+plastico
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Xadani | Resultados para su búsqueda de cajas</title>"
+    __dangerous__body_down_if_text_missing: "<title>Xadani | Resultados para su búsqueda de caja de plastico</title>"
   
   - name: xadani-marca
     url: https://www.xadani.com.mx/marca/sterilite/pagina1.html
@@ -207,6 +207,11 @@ sites:
     url: https://sterilite.mx/paga-tus-productos-en-linea/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Ahora puedes pagar en línea tus productos Sterilite favoritos. Compra fácil, rápido y seguro. ¡Organiza tu hogar sin complicaciones! 🚀">'
+
+  - name: sterilite-search
+    url: https://sterilite.mx/search?q=sterilite
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Sterilite | Resultados para su búsqueda de sterilite</title>"
     
     
   - name: cajas-de-plastico
@@ -245,6 +250,11 @@ sites:
     url: https://cajas-de-plastico.com/catalogo-de-cajas-de-almacenamiento-de-la-marca-rubbermaid/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>⚡ Cajas de Plástico | catalogo de cajas de almacenamiento de la marca rubbermaid</title>"
+
+  - name: cajas-de-plastico-search
+    url: https://cajas-de-plastico.com/search?q=cajonera
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Cajas de plastico | Resultados para su búsqueda de cajonera</title>"
     
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
@@ -297,6 +307,11 @@ sites:
     url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio de instalacion de barreras vehiculares en zonas residenciales">'
+
+  - name: barreras-vehiculares-search
+    url: https://barreras-vehiculares.mx/search?q=barrera
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Barreras Vehiculares | Resultados para su búsqueda de barrera</title>"
 
   - name: verificador-precios
     url: https://verificador-precios.mx

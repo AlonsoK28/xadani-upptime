@@ -37,7 +37,7 @@ sites:
   - name: xadani-stripe-order-details
     url: https://www.xadani.com.mx/v2/order-details/pi_3SQGuWPA8RIEn4T31Y9oW0wQ
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702581615/assets/favicon/xadani/xadani-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Información de su pedido #257586 del 06-11-2025</title>"
+    __dangerous__body_down_if_text_missing: "<title>Estimado/a c alonso c ortega falló el pago de su pedido #257586 del 06-11-2025 a las 00:18 AM</title>"
 
   - name: xadani-stripe-webhook
     url: https://www.xadani.com.mx/webhook-stripe

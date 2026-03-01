@@ -1,7 +1,7 @@
 url: https://barreras-vehiculares.mx/search?q=barrera
-status: down
-code: 415
-responseTime: 22
-lastUpdated: 2026-03-01T07:00:53.106Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2026-03-01T07:42:05.759Z
 startTime: 2026-02-27T00:46:06.833Z
 generator: Upptime <https://github.com/upptime/upptime>

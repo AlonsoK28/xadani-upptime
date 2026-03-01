@@ -1,7 +1,7 @@
 url: https://cajas-de-plastico.com/modulos/controller/api/v2/keywords.php
-status: up
-code: 200
-responseTime: 58
-lastUpdated: 2026-02-28T23:24:22.483Z
+status: down
+code: 415
+responseTime: 32
+lastUpdated: 2026-03-01T07:00:29.269Z
 startTime: 2025-07-13T00:46:26.908Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/modulos/controller/api/v2/batch.php
-status: up
-code: 200
-responseTime: 52
-lastUpdated: 2026-02-28T23:24:10.006Z
+status: down
+code: 415
+responseTime: 29
+lastUpdated: 2026-03-01T06:59:39.030Z
 startTime: 2025-04-15T23:43:05.897Z
 generator: Upptime <https://github.com/upptime/upptime>

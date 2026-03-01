@@ -1,7 +1,7 @@
 url: https://sterilite.mx/search?q=sterilite
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2026-02-28T23:24:20.804Z
+status: down
+code: 415
+responseTime: 25
+lastUpdated: 2026-03-01T07:00:22.851Z
 startTime: 2026-02-27T00:45:59.715Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/search?q=caja+de+plastico
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2026-02-28T23:24:14.006Z
+status: down
+code: 415
+responseTime: 22
+lastUpdated: 2026-03-01T06:59:59.502Z
 startTime: 2026-02-27T00:45:51.432Z
 generator: Upptime <https://github.com/upptime/upptime>

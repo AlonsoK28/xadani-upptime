@@ -1,7 +1,7 @@
 url: https://sterilite.mx/checkout
-status: up
-code: 200
-responseTime: 84
-lastUpdated: 2026-02-28T23:24:18.153Z
+status: down
+code: 415
+responseTime: 25
+lastUpdated: 2026-03-01T07:00:10.547Z
 startTime: 2025-09-05T21:36:09.041Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -165,7 +165,7 @@ sites:
   - name: sterilite-stripe-order-details
     url: https://sterilite.mx/v2/order-details/pi_3S47NvLmPLt9oJeN0kPX7FcH
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Información de su pedido #256145 del 05-09-2025</title>"
+    __dangerous__body_down_if_text_missing: "<title>Estimado/a John Doe falló el pago de su pedido #256145 del 05-09-2025 a las 21:41 PM</title>"
     
   - name: sterilite-stripe-webhook
     url: https://sterilite.mx/webhook-stripe

@@ -1,7 +1,7 @@
 url: https://barreras-vehiculares.mx/api/producto/barreras
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-05T03:04:46.914Z
+status: up
+code: 200
+responseTime: 90
+lastUpdated: 2026-03-05T04:51:32.864Z
 startTime: 2023-11-13T01:38:55.952Z
 generator: Upptime <https://github.com/upptime/upptime>

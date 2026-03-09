@@ -212,7 +212,11 @@ sites:
     url: https://sterilite.mx/search?q=sterilite
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Sterilite | Resultados para su búsqueda de sterilite</title>"
-    
+
+  - name: sterilite-feed-google
+    url: https://sterilite.mx/feed-google.xml
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<description>Feed Google Merchant</description>"
     
   - name: cajas-de-plastico
     url: https://cajas-de-plastico.com

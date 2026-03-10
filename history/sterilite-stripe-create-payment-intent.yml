@@ -1,7 +1,7 @@
 url: https://sterilite.mx/create-payment-intent
-status: down
-code: 415
-responseTime: 36
-lastUpdated: 2026-03-10T11:38:25.682Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2026-03-10T13:17:44.212Z
 startTime: 2025-09-05T21:36:08.540Z
 generator: Upptime <https://github.com/upptime/upptime>

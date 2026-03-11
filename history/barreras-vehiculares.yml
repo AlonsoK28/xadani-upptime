@@ -1,7 +1,7 @@
 url: https://barreras-vehiculares.mx
-status: up
-code: 200
-responseTime: 1452
-lastUpdated: 2026-03-11T09:53:56.880Z
+status: down
+code: 415
+responseTime: 194
+lastUpdated: 2026-03-11T14:55:01.640Z
 startTime: 2023-04-25T20:40:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>

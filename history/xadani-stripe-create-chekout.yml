@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/create-checkout-stripe
-status: up
-code: 200
-responseTime: 109
-lastUpdated: 2026-03-11T09:51:49.329Z
+status: down
+code: 415
+responseTime: 31
+lastUpdated: 2026-03-11T14:53:42.446Z
 startTime: 2025-07-13T01:22:50.921Z
 generator: Upptime <https://github.com/upptime/upptime>

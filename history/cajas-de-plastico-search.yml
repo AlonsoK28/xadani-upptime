@@ -1,7 +1,7 @@
 url: https://cajas-de-plastico.com/search?q=cajonera
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2026-03-20T08:52:51.725Z
+status: down
+code: 415
+responseTime: 39
+lastUpdated: 2026-03-20T20:41:31.038Z
 startTime: 2026-02-27T00:46:02.294Z
 generator: Upptime <https://github.com/upptime/upptime>

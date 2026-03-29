@@ -53,6 +53,13 @@ sites:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
+  - name: xadani-api-shipping-details-by-code
+    url: https://www.xadani.com.mx/api/v2/checkout/shipping-details-by-zip-code/01010
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    headers:
+    - "x-heart-beat: $XADANI_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+
   - name: xadani-admin-api-keywords
     url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
@@ -179,6 +186,13 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
     - "x-heart-beat: $STERILITE_DOMAIN_SECRET"
+    - "Content-Type: application/json"
+
+  - name: sterilite-api-shipping-details-by-code
+    url: https://sterilite.mx/api/v2/checkout/shipping-details-by-zip-code/01010
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    headers:
+    - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: sterilite-admin-api-keywords

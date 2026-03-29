@@ -57,7 +57,8 @@ sites:
     url: https://www.xadani.com.mx/api/v2/checkout/shipping-details-by-zip-code/01010
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     headers:
-    - "x-heart-beat: $XADANI_DOMAIN_SECRET"
+    - "x-secret: $XADANI_API_SECRET-$XADANI_DOMAIN_SECRET"
+    - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: xadani-admin-api-keywords
@@ -192,7 +193,8 @@ sites:
     url: https://sterilite.mx/api/v2/checkout/shipping-details-by-zip-code/01010
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
-    - "x-heart-beat: $XADANI_DOMAIN_SECRET"
+    - "x-secret: $XADANI_API_SECRET-$XADANI_DOMAIN_SECRET"
+    - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
   - name: sterilite-admin-api-keywords

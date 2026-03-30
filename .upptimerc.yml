@@ -35,6 +35,26 @@ sites:
     headers:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+
+  - name: xadani-stripe-checkout-form
+    url: https://www.xadani.com.mx/checkout
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra | Xadani Checkout</title>"
+
+  - name: sterilite-stripe-checkout-form-by-id-price-checker-1
+    url: https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Empresarial</title>"
+
+  - name: sterilite-stripe-checkout-form-by-id-price-checker-2
+    url: https://www.xadani.com.mx/checkout-product/dispositivo-verificador-de-precios-modelo-profesional/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Profesional</title>"
+
+  - name: sterilite-stripe-checkout-form-by-code
+    url: https://www.xadani.com.mx/checkout-products/18/21/22/3/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de 4 productos</title>"
     
   - name: xadani-stripe-order-details
     url: https://www.xadani.com.mx/v2/order-details/pi_3SQGuWPA8RIEn4T31Y9oW0wQ
@@ -174,6 +194,16 @@ sites:
     url: https://sterilite.mx/checkout
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra | Sterilite Checkout</title>"
+
+  - name: sterilite-stripe-checkout-form-by-id
+    url: https://sterilite.mx/checkout-product/contenedor-industrial-almacenamiento/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Contenedor industrial de almacenamiento Sterilite 38 Gal / 144 L </title>"
+
+  - name: sterilite-stripe-checkout-form-by-code
+    url: https://sterilite.mx/checkout-products/919458404/900964976/895032698/882000434/797834501/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de 5 productos</title>"
     
   - name: sterilite-stripe-order-details
     url: https://sterilite.mx/v2/order-details/pi_3S47NvLmPLt9oJeN0kPX7FcH

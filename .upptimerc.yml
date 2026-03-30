@@ -20,6 +20,7 @@ sites:
     - "x-secret: $XADANI_API_SECRET-$XADANI_DOMAIN_SECRET"
     - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    body: "{}"
 
   - name: xadani-stripe-create-chekout
     url: https://www.xadani.com.mx/create-checkout-stripe
@@ -63,6 +64,7 @@ sites:
     - "x-secret: $XADANI_API_SECRET-$XADANI_DOMAIN_SECRET"
     - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    body: "{}"
 
   - name: xadani-admin-api-keywords
     url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
@@ -201,6 +203,7 @@ sites:
     - "x-secret: $STERILITE_API_SECRET-$STERILITE_DOMAIN_SECRET"
     - "x-token: $STERILITE_API_TOKEN-$STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
+    body: "{}"
 
   - name: sterilite-admin-api-keywords
     url: https://sterilite.mx/modulos/controller/api/v2/keywords.php

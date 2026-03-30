@@ -199,7 +199,7 @@ sites:
     method: POST
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702583888/assets/favicon/sterilite/sterilite-2.0.ico
     headers:
-    - "Origin: $XADANI_ORIGIN"
+    - "Origin: $STERILITE_ORIGIN"
     - "x-secret: $STERILITE_API_SECRET-$STERILITE_DOMAIN_SECRET"
     - "x-token: $STERILITE_API_TOKEN-$STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
@@ -355,9 +355,28 @@ sites:
     url: https://verificador-precios.mx/verificador-precios-integracion-pospal/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
 
-  - name: xa-cloudinary-api-rest
+  - name: xa-cloudinary-api-rest-ping
     url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/ping
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+
+  - name: xa-cloudinary-api-rest-by-prefix
+    url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/by-prefix/44
+    icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+
+  - name: xa-cloudinary-api-rest-delete
+    url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/55555666-1
+    method: DELETE
+    icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+  
+  - name: xa-cloudinary-api-rest-rename
+    url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/55555666-333/rename
+    method: PATCH
+    icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+  
+  - name: xa-cloudinary-api-rest-batch-upload
+    url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/upload-batch
+    method: POST
+    icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

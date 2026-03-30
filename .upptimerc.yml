@@ -367,16 +367,19 @@ sites:
     url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/55555666-1
     method: DELETE
     icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+    expectedStatusCodes: [200, 404]
   
   - name: xa-cloudinary-api-rest-rename
     url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/55555666-333/rename
     method: PATCH
+    expectedStatusCodes: [200, 415]
     icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
   
   - name: xa-cloudinary-api-rest-batch-upload
     url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/api/cloudinary-images/upload-batch
     method: POST
     icon: https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png
+    expectedStatusCodes: [200, 400]
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -1,7 +1,7 @@
 url: https://xa-cloudinary-api-rest-ffcgdggedsgzajdg.canadacentral-01.azurewebsites.net/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-04T04:57:55.006Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2026-04-04T06:03:01.218Z
 startTime: 2026-03-30T06:08:43.217Z
 generator: Upptime <https://github.com/upptime/upptime>

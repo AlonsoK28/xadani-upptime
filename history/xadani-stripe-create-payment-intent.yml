@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/create-payment-intent
-status: down
-code: 415
-responseTime: 36
-lastUpdated: 2026-04-06T21:43:14.687Z
+status: up
+code: 200
+responseTime: 126
+lastUpdated: 2026-04-06T22:43:57.236Z
 startTime: 2025-11-04T21:31:24.067Z
 generator: Upptime <https://github.com/upptime/upptime>

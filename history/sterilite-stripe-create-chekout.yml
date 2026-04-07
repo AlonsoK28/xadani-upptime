@@ -1,7 +1,7 @@
 url: https://sterilite.mx/create-checkout-stripe
-status: up
-code: 200
-responseTime: 62
-lastUpdated: 2026-04-07T23:39:12.034Z
+status: down
+code: 415
+responseTime: 37
+lastUpdated: 2026-04-07T23:45:11.115Z
 startTime: 2025-04-15T06:07:02.528Z
 generator: Upptime <https://github.com/upptime/upptime>

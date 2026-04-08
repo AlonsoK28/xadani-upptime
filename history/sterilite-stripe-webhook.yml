@@ -1,7 +1,7 @@
 url: https://sterilite.mx/webhook-stripe
-status: down
-code: 415
-responseTime: 30
-lastUpdated: 2026-04-07T23:45:20.661Z
+status: up
+code: 200
+responseTime: 71
+lastUpdated: 2026-04-08T03:17:59.353Z
 startTime: 2025-04-15T22:42:59.686Z
 generator: Upptime <https://github.com/upptime/upptime>

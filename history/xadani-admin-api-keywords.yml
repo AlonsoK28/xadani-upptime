@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
-status: up
-code: 200
-responseTime: 69
-lastUpdated: 2026-04-08T23:40:01.187Z
+status: down
+code: 415
+responseTime: 36
+lastUpdated: 2026-04-09T07:47:31.992Z
 startTime: 2025-04-15T23:43:07.662Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://sterilite.mx/api/producto/cajas%20de%20plastico
-status: down
-code: 415
-responseTime: 240
-lastUpdated: 2026-05-22T04:20:40.022Z
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2026-05-22T08:26:46.506Z
 startTime: 2023-11-13T01:38:53.847Z
 generator: Upptime <https://github.com/upptime/upptime>

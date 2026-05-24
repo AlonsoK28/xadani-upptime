@@ -1,7 +1,7 @@
 url: https://www.xadani.com.mx/webhook-stripe
-status: down
-code: 415
-responseTime: 90
-lastUpdated: 2026-05-24T12:05:57.093Z
+status: up
+code: 200
+responseTime: 114
+lastUpdated: 2026-05-24T16:06:17.526Z
 startTime: 2025-07-13T01:03:25.299Z
 generator: Upptime <https://github.com/upptime/upptime>

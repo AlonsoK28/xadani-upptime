@@ -41,7 +41,7 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra | Xadani Checkout</title>"
 
-  - name: sterilite-stripe-checkout-form-by-id-price-checker-1
+  - name: xadani-stripe-checkout-form-by-id-price-checker-1
     url: https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Empresarial</title>"
@@ -51,7 +51,7 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Profesional</title>"
 
-  - name: sterilite-stripe-checkout-form-by-code
+  - name: xadani-stripe-checkout-form-by-code
     url: https://www.xadani.com.mx/checkout-products/18/21/22/3/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de 4 productos</title>"

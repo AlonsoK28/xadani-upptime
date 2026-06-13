@@ -85,6 +85,7 @@ sites:
     - "x-token: $XADANI_API_TOKEN-$XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
     body: "{}"
+    __dangerous__body_down_if_text_missing: '"success": "true"'
 
   - name: xadani-admin-api-keywords
     url: https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php
@@ -234,6 +235,7 @@ sites:
     - "x-token: $STERILITE_API_TOKEN-$STERILITE_DOMAIN_SECRET"
     - "Content-Type: application/json"
     body: "{}"
+    __dangerous__body_down_if_text_missing: '"success": "true"'
 
   - name: sterilite-admin-api-keywords
     url: https://sterilite.mx/modulos/controller/api/v2/keywords.php

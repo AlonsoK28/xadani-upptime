@@ -1,0 +1,64 @@
+name: WhatsApp Issue Notifications
+
+on:
+  issues:
+    types:
+      - opened
+      - closed
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  notify:
+    name: Send WhatsApp notification
+    runs-on: ubuntu-latest
+    if: >
+      (github.event.issue.user.login == 'upptime-bot[bot]' ||
+      github.event.issue.user.login == 'github-actions[bot]') &&
+      (contains(github.event.issue.body, 'Upptime') ||
+      contains(github.event.issue.title, ' is down'))
+    steps:
+      - name: Build CallMeBot URL
+        id: build-url
+        env:
+          ISSUE_ACTION: ${{ github.event.action }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+          REPOSITORY: ${{ github.repository }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: |
+          python3 <<'PY' >> "$GITHUB_OUTPUT"
+          import os
+          from urllib.parse import urlencode
+
+          action = os.environ["ISSUE_ACTION"]
+          title = os.environ["ISSUE_TITLE"]
+          issue_url = os.environ["ISSUE_URL"]
+          repository = os.environ["REPOSITORY"]
+          phone = os.environ["CALLMEBOT_PHONE"]
+          apikey = os.environ["CALLMEBOT_APIKEY"]
+
+          state = "ABIERTO" if action == "opened" else "CERRADO"
+          message = (
+              f"Upptime {state}\n"
+              f"Repo: {repository}\n"
+              f"Issue: {title}\n"
+              f"URL: {issue_url}"
+          )
+
+          query = urlencode(
+              {
+                  "phone": phone,
+                  "text": message,
+                  "apikey": apikey,
+              }
+          )
+
+          print(f"url=https://api.callmebot.com/whatsapp.php?{query}")
+          PY
+
+      - name: Send WhatsApp message
+        run: curl -fsS "${{ steps.build-url.outputs.url }}"

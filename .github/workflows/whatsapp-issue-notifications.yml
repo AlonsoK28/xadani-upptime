@@ -15,10 +15,8 @@ jobs:
     name: Send WhatsApp notification
     runs-on: ubuntu-latest
     if: >
-      (github.event.issue.user.login == 'upptime-bot[bot]' ||
-      github.event.issue.user.login == 'github-actions[bot]') &&
-      (contains(github.event.issue.body, 'Upptime') ||
-      contains(github.event.issue.title, ' is down'))
+      contains(github.event.issue.body || '', 'Upptime') ||
+      contains(github.event.issue.title || '', ' is down')
     steps:
       - name: Build CallMeBot URL
         id: build-url

@@ -130,9 +130,9 @@ sites:
     __dangerous__body_down_if_text_missing: "<title>Crea tu tienda online: La mejor plataforma de eCommerce</title>"
   
   - name: xadani-list-1
-    url: https://www.xadani.com.mx/mejores-marcas-de-herramientas/l
+    url: https://www.xadani.com.mx/caja-transparente/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
-    __dangerous__body_down_if_text_missing: "<title>⚡  Mejores marcas de herramientas</title>"
+    __dangerous__body_down_if_text_missing: "<title>Cajas de Plástico Transparente | CATALOGO STERILITE 🥉🤩📦</title>"
   
   - name: xadani-cotizacion
     url: https://www.xadani.com.mx/cotizacion.html

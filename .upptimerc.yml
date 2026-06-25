@@ -6,6 +6,12 @@ sites:
   - name: xadani
     url: https://www.xadani.com.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+
+  - name: xadani-ftp
+    check: "tcp-ping"
+    url: $FTP_SERVER_XADANI_SECRET
+    port: 21
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
    
   - name: xadani-api
     url: https://www.xadani.com.mx/api/producto/cajas%20de%20plastico

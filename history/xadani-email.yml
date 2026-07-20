@@ -1,7 +1,7 @@
 url: $XADANI_EMAIL_ENDPOINT
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-19T00:09:48.294Z
+code: 403
+responseTime: 174
+lastUpdated: 2026-07-20T23:57:25.633Z
 startTime: 2023-11-22T19:43:18.907Z
 generator: Upptime <https://github.com/upptime/upptime>

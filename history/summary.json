@@ -4,16 +4,16 @@
     "url": "https://www.xadani.com.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani",
-    "status": "down",
+    "status": "up",
     "uptime": "96.19%",
-    "uptimeDay": "68.39%",
-    "uptimeWeek": "65.12%",
-    "uptimeMonth": "57.67%",
+    "uptimeDay": "68.58%",
+    "uptimeWeek": "65.06%",
+    "uptimeMonth": "57.66%",
     "uptimeYear": "87.53%",
-    "time": 864,
-    "timeDay": 1235,
-    "timeWeek": 860,
-    "timeMonth": 673,
+    "time": 865,
+    "timeDay": 1129,
+    "timeWeek": 864,
+    "timeMonth": 677,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-04-26": 106,
@@ -101,7 +101,7 @@
       "2026-07-31": 470,
       "2026-08-01": 701,
       "2026-08-02": 469,
-      "2026-08-03": 231
+      "2026-08-03": 236
     }
   },
   {
@@ -121,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-03": 1129,
+      "2026-08-03": 1137,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -168,15 +168,15 @@
     "url": "https://www.xadani.com.mx/api/producto/cajas%20de%20plastico",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-api",
-    "status": "down",
+    "status": "up",
     "uptime": "95.46%",
-    "uptimeDay": "68.73%",
-    "uptimeWeek": "65.60%",
-    "uptimeMonth": "58.17%",
+    "uptimeDay": "68.89%",
+    "uptimeWeek": "65.54%",
+    "uptimeMonth": "58.16%",
     "uptimeYear": "87.62%",
     "time": 135,
-    "timeDay": 504,
-    "timeWeek": 355,
+    "timeDay": 442,
+    "timeWeek": 353,
     "timeMonth": 305,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
       "2026-07-31": 465,
       "2026-08-01": 696,
       "2026-08-02": 465,
-      "2026-08-03": 226
+      "2026-08-03": 231
     }
   },
   {
@@ -278,7 +278,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.01%",
+    "uptimeYear": "12.02%",
     "time": 200,
     "timeDay": 376,
     "timeWeek": 429,
@@ -613,15 +613,15 @@
     "url": "https://www.xadani.com.mx/create-checkout-stripe",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-create-chekout",
-    "status": "down",
+    "status": "up",
     "uptime": "88.46%",
-    "uptimeDay": "69.38%",
-    "uptimeWeek": "66.54%",
-    "uptimeMonth": "59.59%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "66.48%",
+    "uptimeMonth": "59.58%",
     "uptimeYear": "87.78%",
     "time": 106,
-    "timeDay": 387,
-    "timeWeek": 268,
+    "timeDay": 337,
+    "timeWeek": 266,
     "timeMonth": 242,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -712,7 +712,7 @@
       "2026-07-31": 456,
       "2026-08-01": 686,
       "2026-08-02": 455,
-      "2026-08-03": 216
+      "2026-08-03": 222
     }
   },
   {
@@ -720,16 +720,16 @@
     "url": "https://www.xadani.com.mx/create-payment-intent",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-create-payment-intent",
-    "status": "down",
+    "status": "up",
     "uptime": "83.70%",
-    "uptimeDay": "69.72%",
-    "uptimeWeek": "67.02%",
-    "uptimeMonth": "60.08%",
+    "uptimeDay": "69.88%",
+    "uptimeWeek": "66.96%",
+    "uptimeMonth": "60.06%",
     "uptimeYear": "83.70%",
     "time": 119,
-    "timeDay": 498,
-    "timeWeek": 293,
-    "timeMonth": 252,
+    "timeDay": 385,
+    "timeWeek": 284,
+    "timeMonth": 250,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2026-04-24": 212,
@@ -819,7 +819,7 @@
       "2026-07-31": 451,
       "2026-08-01": 682,
       "2026-08-02": 450,
-      "2026-08-03": 211
+      "2026-08-03": 217
     }
   },
   {
@@ -827,16 +827,16 @@
     "url": "https://www.xadani.com.mx/checkout",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-checkout-form",
-    "status": "down",
+    "status": "up",
     "uptime": "65.02%",
-    "uptimeDay": "70.06%",
-    "uptimeWeek": "67.50%",
-    "uptimeMonth": "60.56%",
+    "uptimeDay": "70.22%",
+    "uptimeWeek": "67.44%",
+    "uptimeMonth": "60.55%",
     "uptimeYear": "65.02%",
     "time": 236,
-    "timeDay": 464,
-    "timeWeek": 365,
-    "timeMonth": 322,
+    "timeDay": 399,
+    "timeWeek": 358,
+    "timeMonth": 321,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-04-24": 212,
@@ -926,7 +926,7 @@
       "2026-07-31": 446,
       "2026-08-01": 677,
       "2026-08-02": 445,
-      "2026-08-03": 206
+      "2026-08-03": 212
     }
   },
   {
@@ -934,17 +934,17 @@
     "url": "https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial/",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-checkout-form-by-id-price-checker-1",
-    "status": "down",
+    "status": "up",
     "uptime": "54.10%",
-    "uptimeDay": "70.39%",
-    "uptimeWeek": "67.98%",
-    "uptimeMonth": "61.05%",
+    "uptimeDay": "70.56%",
+    "uptimeWeek": "67.92%",
+    "uptimeMonth": "61.04%",
     "uptimeYear": "54.10%",
-    "time": 316,
-    "timeDay": 443,
-    "timeWeek": 364,
-    "timeMonth": 321,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 374,
+    "timeWeek": 356,
+    "timeMonth": 320,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-06-09": 493,
       "2026-06-08": 76,
@@ -999,7 +999,7 @@
       "2026-07-31": 441,
       "2026-08-01": 672,
       "2026-08-02": 441,
-      "2026-08-03": 202
+      "2026-08-03": 207
     }
   },
   {
@@ -1007,17 +1007,17 @@
     "url": "https://www.xadani.com.mx/checkout-product/dispositivo-verificador-de-precios-modelo-profesional/",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "sterilite-stripe-checkout-form-by-id-price-checker-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 405,
-    "timeWeek": 335,
-    "timeMonth": 314,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 404,
+    "timeWeek": 340,
+    "timeMonth": 315,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -1025,16 +1025,16 @@
     "url": "https://www.xadani.com.mx/checkout-products/18/21/22/3/",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-checkout-form-by-code",
-    "status": "down",
+    "status": "up",
     "uptime": "57.89%",
-    "uptimeDay": "71.06%",
-    "uptimeWeek": "68.94%",
-    "uptimeMonth": "67.34%",
+    "uptimeDay": "71.23%",
+    "uptimeWeek": "68.88%",
+    "uptimeMonth": "67.33%",
     "uptimeYear": "57.89%",
     "time": 306,
-    "timeDay": 494,
-    "timeWeek": 338,
-    "timeMonth": 315,
+    "timeDay": 426,
+    "timeWeek": 335,
+    "timeMonth": 314,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2026-06-09": 484,
@@ -1090,7 +1090,7 @@
       "2026-07-31": 431,
       "2026-08-01": 662,
       "2026-08-02": 431,
-      "2026-08-03": 192
+      "2026-08-03": 198
     }
   },
   {
@@ -1098,16 +1098,16 @@
     "url": "https://www.xadani.com.mx/v2/order-details/pi_3SQGuWPA8RIEn4T31Y9oW0wQ",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-order-details",
-    "status": "down",
+    "status": "up",
     "uptime": "88.94%",
-    "uptimeDay": "71.40%",
-    "uptimeWeek": "69.42%",
-    "uptimeMonth": "62.51%",
+    "uptimeDay": "71.56%",
+    "uptimeWeek": "69.36%",
+    "uptimeMonth": "62.50%",
     "uptimeYear": "88.28%",
     "time": 166,
-    "timeDay": 467,
-    "timeWeek": 368,
-    "timeMonth": 318,
+    "timeDay": 386,
+    "timeWeek": 358,
+    "timeMonth": 316,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-04-24": 212,
@@ -1197,7 +1197,7 @@
       "2026-07-31": 427,
       "2026-08-01": 657,
       "2026-08-02": 426,
-      "2026-08-03": 187
+      "2026-08-03": 193
     }
   },
   {
@@ -1205,16 +1205,16 @@
     "url": "https://www.xadani.com.mx/webhook-stripe",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-stripe-webhook",
-    "status": "down",
+    "status": "up",
     "uptime": "89.48%",
-    "uptimeDay": "71.74%",
-    "uptimeWeek": "69.90%",
-    "uptimeMonth": "68.34%",
+    "uptimeDay": "71.90%",
+    "uptimeWeek": "69.84%",
+    "uptimeMonth": "68.32%",
     "uptimeYear": "88.85%",
     "time": 103,
-    "timeDay": 340,
-    "timeWeek": 252,
-    "timeMonth": 223,
+    "timeDay": 287,
+    "timeWeek": 247,
+    "timeMonth": 222,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2026-04-26": 96,
@@ -1302,7 +1302,7 @@
       "2026-07-31": 422,
       "2026-08-01": 653,
       "2026-08-02": 421,
-      "2026-08-03": 182
+      "2026-08-03": 188
     }
   },
   {
@@ -1310,17 +1310,17 @@
     "url": "https://www.xadani.com.mx/modulos/controller/api/v2/batch.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-admin-api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "91.12%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "70.38%",
-    "uptimeMonth": "63.48%",
+    "uptimeDay": "72.24%",
+    "uptimeWeek": "70.32%",
+    "uptimeMonth": "63.47%",
     "uptimeYear": "88.45%",
-    "time": 100,
-    "timeDay": 391,
-    "timeWeek": 271,
+    "time": 101,
+    "timeDay": 336,
+    "timeWeek": 268,
     "timeMonth": 219,
-    "timeYear": 108,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2026-04-24": 212,
       "2026-04-23": 4,
@@ -1409,7 +1409,7 @@
       "2026-07-31": 417,
       "2026-08-01": 648,
       "2026-08-02": 416,
-      "2026-08-03": 178
+      "2026-08-03": 183
     }
   },
   {
@@ -1418,11 +1418,11 @@
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-api-shipping-details-by-code",
     "status": "down",
-    "uptime": "34.58%",
+    "uptime": "34.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.58%",
+    "uptimeYear": "34.59%",
     "time": 147,
     "timeDay": 341,
     "timeWeek": 254,
@@ -1520,16 +1520,16 @@
     "url": "https://www.xadani.com.mx/modulos/controller/api/v2/keywords.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-admin-api-keywords",
-    "status": "down",
+    "status": "up",
     "uptime": "91.61%",
-    "uptimeDay": "72.73%",
-    "uptimeWeek": "71.32%",
-    "uptimeMonth": "64.43%",
+    "uptimeDay": "72.89%",
+    "uptimeWeek": "71.26%",
+    "uptimeMonth": "64.42%",
     "uptimeYear": "89.08%",
     "time": 99,
-    "timeDay": 349,
-    "timeWeek": 268,
-    "timeMonth": 229,
+    "timeDay": 350,
+    "timeWeek": 274,
+    "timeMonth": 231,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2026-04-23": 56,
@@ -1618,7 +1618,7 @@
       "2026-07-31": 407,
       "2026-08-01": 638,
       "2026-08-02": 407,
-      "2026-08-03": 168
+      "2026-08-03": 174
     }
   },
   {
@@ -1626,16 +1626,16 @@
     "url": "https://www.xadani.com.mx/griddler-de-color-plata/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-product-1",
-    "status": "down",
+    "status": "up",
     "uptime": "89.21%",
-    "uptimeDay": "73.07%",
-    "uptimeWeek": "71.80%",
-    "uptimeMonth": "65.90%",
+    "uptimeDay": "73.23%",
+    "uptimeWeek": "71.74%",
+    "uptimeMonth": "65.89%",
     "uptimeYear": "88.77%",
-    "time": 200,
-    "timeDay": 690,
-    "timeWeek": 472,
-    "timeMonth": 348,
+    "time": 201,
+    "timeDay": 698,
+    "timeWeek": 488,
+    "timeMonth": 355,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-04-23": 56,
@@ -1725,7 +1725,7 @@
       "2026-07-31": 403,
       "2026-08-01": 633,
       "2026-08-02": 402,
-      "2026-08-03": 163
+      "2026-08-03": 169
     }
   },
   {
@@ -1733,17 +1733,17 @@
     "url": "https://www.xadani.com.mx/dispensador-de-doble-camara/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-product-2",
-    "status": "down",
+    "status": "up",
     "uptime": "89.22%",
-    "uptimeDay": "73.41%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "65.41%",
+    "uptimeDay": "73.57%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "65.39%",
     "uptimeYear": "88.78%",
-    "time": 194,
-    "timeDay": 737,
-    "timeWeek": 458,
-    "timeMonth": 349,
-    "timeYear": 195,
+    "time": 195,
+    "timeDay": 708,
+    "timeWeek": 470,
+    "timeMonth": 354,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2026-04-24": 212,
       "2026-04-23": 2,
@@ -1832,7 +1832,7 @@
       "2026-07-31": 398,
       "2026-08-01": 629,
       "2026-08-02": 397,
-      "2026-08-03": 158
+      "2026-08-03": 164
     }
   },
   {
@@ -1840,16 +1840,16 @@
     "url": "https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-service-1-title",
-    "status": "down",
+    "status": "up",
     "uptime": "89.36%",
-    "uptimeDay": "73.74%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "65.89%",
+    "uptimeDay": "73.91%",
+    "uptimeWeek": "72.70%",
+    "uptimeMonth": "65.88%",
     "uptimeYear": "89.25%",
     "time": 287,
-    "timeDay": 517,
-    "timeWeek": 423,
-    "timeMonth": 1050,
+    "timeDay": 462,
+    "timeWeek": 419,
+    "timeMonth": 1038,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2026-04-22": 150,
@@ -1939,7 +1939,7 @@
       "2026-07-31": 393,
       "2026-08-01": 624,
       "2026-08-02": 392,
-      "2026-08-03": 154
+      "2026-08-03": 159
     }
   },
   {
@@ -1947,15 +1947,15 @@
     "url": "https://www.xadani.com.mx/servicio-de-instalacion-de-barreras-vehiculares/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-service-1-description",
-    "status": "down",
+    "status": "up",
     "uptime": "89.06%",
-    "uptimeDay": "74.08%",
-    "uptimeWeek": "73.24%",
-    "uptimeMonth": "66.38%",
+    "uptimeDay": "74.25%",
+    "uptimeWeek": "73.18%",
+    "uptimeMonth": "66.36%",
     "uptimeYear": "88.95%",
-    "time": 199,
-    "timeDay": 431,
-    "timeWeek": 349,
+    "time": 200,
+    "timeDay": 401,
+    "timeWeek": 348,
     "timeMonth": 335,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -2046,7 +2046,7 @@
       "2026-07-31": 388,
       "2026-08-01": 619,
       "2026-08-02": 388,
-      "2026-08-03": 149
+      "2026-08-03": 154
     }
   },
   {
@@ -2054,17 +2054,17 @@
     "url": "https://www.xadani.com.mx/instalacion-plafon-corrido/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-service-2-title",
-    "status": "down",
+    "status": "up",
     "uptime": "88.94%",
-    "uptimeDay": "74.41%",
-    "uptimeWeek": "73.71%",
-    "uptimeMonth": "66.86%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "73.66%",
+    "uptimeMonth": "66.85%",
     "uptimeYear": "88.94%",
-    "time": 229,
-    "timeDay": 416,
+    "time": 230,
+    "timeDay": 395,
     "timeWeek": 354,
-    "timeMonth": 328,
-    "timeYear": 229,
+    "timeMonth": 329,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2026-04-24": 212,
       "2026-04-23": 0,
@@ -2153,7 +2153,7 @@
       "2026-07-31": 383,
       "2026-08-01": 614,
       "2026-08-02": 383,
-      "2026-08-03": 144
+      "2026-08-03": 149
     }
   },
   {
@@ -2161,17 +2161,17 @@
     "url": "https://www.xadani.com.mx/instalacion-plafon-corrido/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-service-2-description",
-    "status": "down",
+    "status": "up",
     "uptime": "89.03%",
-    "uptimeDay": "74.75%",
-    "uptimeWeek": "74.19%",
-    "uptimeMonth": "67.02%",
+    "uptimeDay": "74.92%",
+    "uptimeWeek": "74.14%",
+    "uptimeMonth": "67.01%",
     "uptimeYear": "89.03%",
-    "time": 191,
-    "timeDay": 463,
-    "timeWeek": 340,
-    "timeMonth": 326,
-    "timeYear": 191,
+    "time": 192,
+    "timeDay": 495,
+    "timeWeek": 354,
+    "timeMonth": 330,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2026-04-26": 86,
       "2026-04-28": 76,
@@ -2258,7 +2258,7 @@
       "2026-07-31": 378,
       "2026-08-01": 609,
       "2026-08-02": 378,
-      "2026-08-03": 139
+      "2026-08-03": 144
     }
   },
   {
@@ -2266,15 +2266,15 @@
     "url": "https://www.xadani.com.mx/mi-ecommerce.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-ecommerce",
-    "status": "down",
-    "uptime": "89.64%",
-    "uptimeDay": "75.09%",
-    "uptimeWeek": "74.67%",
-    "uptimeMonth": "67.52%",
+    "status": "up",
+    "uptime": "89.63%",
+    "uptimeDay": "75.26%",
+    "uptimeWeek": "74.62%",
+    "uptimeMonth": "67.51%",
     "uptimeYear": "89.21%",
     "time": 150,
-    "timeDay": 377,
-    "timeWeek": 297,
+    "timeDay": 342,
+    "timeWeek": 296,
     "timeMonth": 278,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -2363,7 +2363,7 @@
       "2026-07-31": 374,
       "2026-08-01": 604,
       "2026-08-02": 373,
-      "2026-08-03": 135
+      "2026-08-03": 140
     }
   },
   {
@@ -2371,16 +2371,16 @@
     "url": "https://www.xadani.com.mx/caja-transparente/l",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-list-1",
-    "status": "down",
+    "status": "up",
     "uptime": "90.07%",
-    "uptimeDay": "75.42%",
-    "uptimeWeek": "75.15%",
-    "uptimeMonth": "68.02%",
+    "uptimeDay": "75.60%",
+    "uptimeWeek": "75.10%",
+    "uptimeMonth": "68.00%",
     "uptimeYear": "89.66%",
     "time": 263,
-    "timeDay": 631,
-    "timeWeek": 498,
-    "timeMonth": 506,
+    "timeDay": 549,
+    "timeWeek": 491,
+    "timeMonth": 504,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2026-04-23": 49,
@@ -2469,7 +2469,7 @@
       "2026-07-31": 369,
       "2026-08-01": 600,
       "2026-08-02": 368,
-      "2026-08-03": 130
+      "2026-08-03": 135
     }
   },
   {
@@ -2477,15 +2477,15 @@
     "url": "https://www.xadani.com.mx/cotizacion.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-cotizacion",
-    "status": "down",
+    "status": "up",
     "uptime": "89.80%",
-    "uptimeDay": "75.76%",
-    "uptimeWeek": "75.63%",
-    "uptimeMonth": "68.51%",
+    "uptimeDay": "75.94%",
+    "uptimeWeek": "75.58%",
+    "uptimeMonth": "68.50%",
     "uptimeYear": "89.38%",
     "time": 132,
-    "timeDay": 364,
-    "timeWeek": 298,
+    "timeDay": 335,
+    "timeWeek": 296,
     "timeMonth": 266,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -2574,7 +2574,7 @@
       "2026-07-31": 364,
       "2026-08-01": 595,
       "2026-08-02": 363,
-      "2026-08-03": 125
+      "2026-08-03": 130
     }
   },
   {
@@ -2582,16 +2582,16 @@
     "url": "https://www.xadani.com.mx/contacto.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-contacto",
-    "status": "down",
+    "status": "up",
     "uptime": "89.92%",
-    "uptimeDay": "76.09%",
-    "uptimeWeek": "76.11%",
-    "uptimeMonth": "69.01%",
+    "uptimeDay": "76.28%",
+    "uptimeWeek": "76.06%",
+    "uptimeMonth": "69.00%",
     "uptimeYear": "89.51%",
     "time": 128,
-    "timeDay": 353,
-    "timeWeek": 274,
-    "timeMonth": 258,
+    "timeDay": 306,
+    "timeWeek": 270,
+    "timeMonth": 257,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-04-26": 83,
@@ -2679,7 +2679,7 @@
       "2026-07-31": 359,
       "2026-08-01": 590,
       "2026-08-02": 359,
-      "2026-08-03": 120
+      "2026-08-03": 125
     }
   },
   {
@@ -2687,16 +2687,16 @@
     "url": "https://www.xadani.com.mx/categoria/hogar/pagina1.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-categoria",
-    "status": "down",
+    "status": "up",
     "uptime": "90.00%",
-    "uptimeDay": "76.43%",
-    "uptimeWeek": "76.59%",
-    "uptimeMonth": "69.51%",
-    "uptimeYear": "89.60%",
-    "time": 255,
-    "timeDay": 543,
-    "timeWeek": 456,
-    "timeMonth": 449,
+    "uptimeDay": "76.62%",
+    "uptimeWeek": "76.54%",
+    "uptimeMonth": "69.50%",
+    "uptimeYear": "89.59%",
+    "time": 256,
+    "timeDay": 470,
+    "timeWeek": 448,
+    "timeMonth": 447,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2026-04-26": 82,
@@ -2783,7 +2783,7 @@
       "2026-07-31": 354,
       "2026-08-01": 585,
       "2026-08-02": 354,
-      "2026-08-03": 116
+      "2026-08-03": 120
     }
   },
   {
@@ -2791,16 +2791,16 @@
     "url": "https://www.xadani.com.mx/subcategoria/almacenamiento/pagina1.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-subcategoria",
-    "status": "down",
+    "status": "up",
     "uptime": "90.08%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "77.07%",
-    "uptimeMonth": "70.00%",
+    "uptimeDay": "76.95%",
+    "uptimeWeek": "77.02%",
+    "uptimeMonth": "69.99%",
     "uptimeYear": "89.68%",
     "time": 248,
-    "timeDay": 575,
-    "timeWeek": 500,
-    "timeMonth": 505,
+    "timeDay": 495,
+    "timeWeek": 489,
+    "timeMonth": 502,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-04-26": 81,
@@ -2887,7 +2887,7 @@
       "2026-07-31": 349,
       "2026-08-01": 580,
       "2026-08-02": 349,
-      "2026-08-03": 111
+      "2026-08-03": 115
     }
   },
   {
@@ -2895,16 +2895,16 @@
     "url": "https://www.xadani.com.mx/search?q=caja+de+plastico",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-search",
-    "status": "down",
+    "status": "up",
     "uptime": "76.75%",
-    "uptimeDay": "77.10%",
-    "uptimeWeek": "77.55%",
-    "uptimeMonth": "70.50%",
+    "uptimeDay": "77.29%",
+    "uptimeWeek": "77.50%",
+    "uptimeMonth": "70.49%",
     "uptimeYear": "76.75%",
     "time": 305,
-    "timeDay": 676,
-    "timeWeek": 599,
-    "timeMonth": 565,
+    "timeDay": 568,
+    "timeWeek": 583,
+    "timeMonth": 561,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-04-26": 80,
@@ -2991,7 +2991,7 @@
       "2026-07-31": 345,
       "2026-08-01": 575,
       "2026-08-02": 344,
-      "2026-08-03": 106
+      "2026-08-03": 111
     }
   },
   {
@@ -2999,16 +2999,16 @@
     "url": "https://www.xadani.com.mx/marca/sterilite/pagina1.html",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-marca",
-    "status": "down",
+    "status": "up",
     "uptime": "90.43%",
-    "uptimeDay": "77.44%",
-    "uptimeWeek": "78.03%",
-    "uptimeMonth": "71.00%",
+    "uptimeDay": "77.63%",
+    "uptimeWeek": "77.98%",
+    "uptimeMonth": "70.99%",
     "uptimeYear": "90.04%",
     "time": 249,
-    "timeDay": 622,
-    "timeWeek": 521,
-    "timeMonth": 521,
+    "timeDay": 523,
+    "timeWeek": 508,
+    "timeMonth": 518,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2026-04-26": 79,
@@ -3095,7 +3095,7 @@
       "2026-07-31": 340,
       "2026-08-01": 571,
       "2026-08-02": 339,
-      "2026-08-03": 101
+      "2026-08-03": 106
     }
   },
   {
@@ -3103,16 +3103,16 @@
     "url": "https://www.xadani.com.mx/subscription/cs_live_a1l93RxXyTnP9j1bcOHJQeSDNVH4akRDW1hY77jZChmpwevh2UG6I9iCKz",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico",
     "slug": "xadani-subscription",
-    "status": "down",
+    "status": "up",
     "uptime": "81.86%",
-    "uptimeDay": "77.77%",
-    "uptimeWeek": "78.50%",
-    "uptimeMonth": "71.49%",
+    "uptimeDay": "77.96%",
+    "uptimeWeek": "78.46%",
+    "uptimeMonth": "71.48%",
     "uptimeYear": "81.86%",
     "time": 1872,
     "timeDay": 1690,
-    "timeWeek": 1817,
-    "timeMonth": 1922,
+    "timeWeek": 1809,
+    "timeMonth": 1918,
     "timeYear": 1872,
     "dailyMinutesDown": {
       "2026-04-26": 78,
@@ -3199,7 +3199,7 @@
       "2026-07-31": 335,
       "2026-08-01": 566,
       "2026-08-02": 335,
-      "2026-08-03": 96
+      "2026-08-03": 101
     }
   },
   {
@@ -3207,15 +3207,15 @@
     "url": "https://cajas-de-plastico.com",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico",
-    "status": "down",
+    "status": "up",
     "uptime": "97.17%",
-    "uptimeDay": "78.11%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "71.99%",
+    "uptimeDay": "78.30%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "71.98%",
     "uptimeYear": "90.74%",
-    "time": 776,
-    "timeDay": 870,
-    "timeWeek": 774,
+    "time": 777,
+    "timeDay": 850,
+    "timeWeek": 776,
     "timeMonth": 823,
     "timeYear": 795,
     "dailyMinutesDown": {
@@ -3302,7 +3302,7 @@
       "2026-07-31": 330,
       "2026-08-01": 561,
       "2026-08-02": 330,
-      "2026-08-03": 92
+      "2026-08-03": 96
     }
   },
   {
@@ -3310,16 +3310,16 @@
     "url": "https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-api",
-    "status": "down",
+    "status": "up",
     "uptime": "96.63%",
-    "uptimeDay": "78.44%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "72.48%",
+    "uptimeDay": "78.64%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "72.47%",
     "uptimeYear": "90.82%",
     "time": 114,
-    "timeDay": 276,
-    "timeWeek": 262,
-    "timeMonth": 269,
+    "timeDay": 235,
+    "timeWeek": 255,
+    "timeMonth": 267,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-04-26": 28,
@@ -3405,7 +3405,7 @@
       "2026-07-31": 325,
       "2026-08-01": 556,
       "2026-08-02": 325,
-      "2026-08-03": 87
+      "2026-08-03": 91
     }
   },
   {
@@ -3413,16 +3413,16 @@
     "url": "https://cajas-de-plastico.com/modulos/controller/api/v2/batch.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-admin-api-batch",
-    "status": "down",
+    "status": "up",
     "uptime": "91.42%",
-    "uptimeDay": "78.78%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "72.98%",
+    "uptimeDay": "78.98%",
+    "uptimeWeek": "79.90%",
+    "uptimeMonth": "72.97%",
     "uptimeYear": "90.91%",
     "time": 127,
-    "timeDay": 305,
-    "timeWeek": 247,
-    "timeMonth": 242,
+    "timeDay": 239,
+    "timeWeek": 238,
+    "timeMonth": 240,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2026-04-26": 28,
@@ -3508,7 +3508,7 @@
       "2026-07-31": 320,
       "2026-08-01": 551,
       "2026-08-02": 320,
-      "2026-08-03": 82
+      "2026-08-03": 86
     }
   },
   {
@@ -3516,16 +3516,16 @@
     "url": "https://cajas-de-plastico.com/modulos/controller/api/v2/keywords.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-admin-api-keywords",
-    "status": "down",
+    "status": "up",
     "uptime": "91.50%",
-    "uptimeDay": "79.12%",
-    "uptimeWeek": "80.42%",
-    "uptimeMonth": "73.48%",
+    "uptimeDay": "79.32%",
+    "uptimeWeek": "80.38%",
+    "uptimeMonth": "73.47%",
     "uptimeYear": "91.00%",
     "time": 103,
-    "timeDay": 258,
-    "timeWeek": 230,
-    "timeMonth": 227,
+    "timeDay": 226,
+    "timeWeek": 225,
+    "timeMonth": 226,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2026-04-26": 27,
@@ -3611,7 +3611,7 @@
       "2026-07-31": 316,
       "2026-08-01": 546,
       "2026-08-02": 315,
-      "2026-08-03": 77
+      "2026-08-03": 82
     }
   },
   {
@@ -3619,16 +3619,16 @@
     "url": "https://cajas-de-plastico.com/contenedor-de-almacenamiento-apilable-rubbermaid/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-product-1",
-    "status": "down",
+    "status": "up",
     "uptime": "91.43%",
-    "uptimeDay": "79.45%",
-    "uptimeWeek": "80.90%",
+    "uptimeDay": "79.66%",
+    "uptimeWeek": "80.86%",
     "uptimeMonth": "73.97%",
     "uptimeYear": "91.08%",
-    "time": 220,
-    "timeDay": 603,
-    "timeWeek": 429,
-    "timeMonth": 363,
+    "time": 221,
+    "timeDay": 586,
+    "timeWeek": 437,
+    "timeMonth": 367,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-04-26": 27,
@@ -3714,7 +3714,7 @@
       "2026-07-31": 311,
       "2026-08-01": 542,
       "2026-08-02": 310,
-      "2026-08-03": 73
+      "2026-08-03": 77
     }
   },
   {
@@ -3722,16 +3722,16 @@
     "url": "https://cajas-de-plastico.com/cajas-de-almacenamiento-con-cerradura-de-24-galones-rubbermaid/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-product-2",
-    "status": "down",
+    "status": "up",
     "uptime": "91.49%",
-    "uptimeDay": "79.79%",
-    "uptimeWeek": "81.38%",
-    "uptimeMonth": "74.47%",
+    "uptimeDay": "79.99%",
+    "uptimeWeek": "81.34%",
+    "uptimeMonth": "74.46%",
     "uptimeYear": "91.14%",
     "time": 201,
-    "timeDay": 512,
-    "timeWeek": 419,
-    "timeMonth": 352,
+    "timeDay": 509,
+    "timeWeek": 425,
+    "timeMonth": 354,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-04-26": 26,
@@ -3817,7 +3817,7 @@
       "2026-07-31": 306,
       "2026-08-01": 537,
       "2026-08-02": 306,
-      "2026-08-03": 68
+      "2026-08-03": 72
     }
   },
   {
@@ -3825,16 +3825,16 @@
     "url": "https://cajas-de-plastico.com/catalogo-de-cajas-de-almacenamiento-de-la-marca-rubbermaid/l",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-list-1",
-    "status": "down",
+    "status": "up",
     "uptime": "91.57%",
-    "uptimeDay": "80.12%",
-    "uptimeWeek": "81.86%",
-    "uptimeMonth": "74.97%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "81.82%",
+    "uptimeMonth": "74.96%",
     "uptimeYear": "91.23%",
     "time": 244,
-    "timeDay": 459,
-    "timeWeek": 386,
-    "timeMonth": 388,
+    "timeDay": 426,
+    "timeWeek": 384,
+    "timeMonth": 387,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-04-26": 26,
@@ -3920,7 +3920,7 @@
       "2026-07-31": 301,
       "2026-08-01": 532,
       "2026-08-02": 301,
-      "2026-08-03": 63
+      "2026-08-03": 67
     }
   },
   {
@@ -3928,16 +3928,16 @@
     "url": "https://cajas-de-plastico.com/search?q=cajonera",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico",
     "slug": "cajas-de-plastico-search",
-    "status": "down",
+    "status": "up",
     "uptime": "79.91%",
-    "uptimeDay": "80.46%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "75.47%",
+    "uptimeDay": "80.67%",
+    "uptimeWeek": "82.30%",
+    "uptimeMonth": "75.46%",
     "uptimeYear": "79.91%",
     "time": 219,
-    "timeDay": 337,
-    "timeWeek": 273,
-    "timeMonth": 282,
+    "timeDay": 270,
+    "timeWeek": 263,
+    "timeMonth": 280,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2026-04-26": 52,
@@ -4022,7 +4022,7 @@
       "2026-07-31": 296,
       "2026-08-01": 527,
       "2026-08-02": 296,
-      "2026-08-03": 58
+      "2026-08-03": 62
     }
   },
   {
@@ -4030,16 +4030,16 @@
     "url": "https://barreras-vehiculares.mx",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares",
-    "status": "down",
+    "status": "up",
     "uptime": "97.31%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "82.82%",
-    "uptimeMonth": "75.96%",
+    "uptimeDay": "81.01%",
+    "uptimeWeek": "82.78%",
+    "uptimeMonth": "75.95%",
     "uptimeYear": "91.19%",
-    "time": 805,
-    "timeDay": 877,
-    "timeWeek": 804,
-    "timeMonth": 812,
+    "time": 806,
+    "timeDay": 820,
+    "timeWeek": 798,
+    "timeMonth": 810,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2026-04-26": 52,
@@ -4124,7 +4124,7 @@
       "2026-07-31": 291,
       "2026-08-01": 522,
       "2026-08-02": 291,
-      "2026-08-03": 53
+      "2026-08-03": 57
     }
   },
   {
@@ -4132,16 +4132,16 @@
     "url": "https://barreras-vehiculares.mx/api/producto/barreras",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-api",
-    "status": "down",
+    "status": "up",
     "uptime": "96.80%",
-    "uptimeDay": "81.13%",
-    "uptimeWeek": "83.30%",
-    "uptimeMonth": "76.46%",
+    "uptimeDay": "81.35%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "76.45%",
     "uptimeYear": "91.27%",
     "time": 111,
-    "timeDay": 286,
-    "timeWeek": 255,
-    "timeMonth": 267,
+    "timeDay": 260,
+    "timeWeek": 252,
+    "timeMonth": 266,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2026-04-26": 50,
@@ -4226,7 +4226,7 @@
       "2026-07-31": 287,
       "2026-08-01": 517,
       "2026-08-02": 286,
-      "2026-08-03": 49
+      "2026-08-03": 53
     }
   },
   {
@@ -4234,16 +4234,16 @@
     "url": "https://barreras-vehiculares.mx/modulos/controller/api/v2/batch.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-admin-api-batch",
-    "status": "down",
-    "uptime": "91.85%",
-    "uptimeDay": "81.47%",
-    "uptimeWeek": "83.78%",
-    "uptimeMonth": "76.96%",
+    "status": "up",
+    "uptime": "91.84%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "83.74%",
+    "uptimeMonth": "76.95%",
     "uptimeYear": "91.36%",
     "time": 108,
-    "timeDay": 266,
-    "timeWeek": 238,
-    "timeMonth": 251,
+    "timeDay": 235,
+    "timeWeek": 233,
+    "timeMonth": 250,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-04-26": 50,
@@ -4328,7 +4328,7 @@
       "2026-07-31": 282,
       "2026-08-01": 512,
       "2026-08-02": 281,
-      "2026-08-03": 44
+      "2026-08-03": 48
     }
   },
   {
@@ -4336,16 +4336,16 @@
     "url": "https://barreras-vehiculares.mx/modulos/controller/api/v2/keywords.php",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-admin-api-keywords",
-    "status": "down",
+    "status": "up",
     "uptime": "91.93%",
-    "uptimeDay": "81.81%",
-    "uptimeWeek": "84.26%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "84.22%",
     "uptimeMonth": "77.45%",
     "uptimeYear": "91.44%",
     "time": 108,
-    "timeDay": 278,
-    "timeWeek": 255,
-    "timeMonth": 256,
+    "timeDay": 218,
+    "timeWeek": 244,
+    "timeMonth": 253,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-04-26": 48,
@@ -4430,7 +4430,7 @@
       "2026-07-31": 277,
       "2026-08-01": 508,
       "2026-08-02": 277,
-      "2026-08-03": 39
+      "2026-08-03": 43
     }
   },
   {
@@ -4438,16 +4438,16 @@
     "url": "https://barreras-vehiculares.mx/barrera-vehicular-automatica-gard8-para-mastil-de-hasta-7-metros-came/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-product-1",
-    "status": "down",
+    "status": "up",
     "uptime": "91.86%",
-    "uptimeDay": "82.14%",
-    "uptimeWeek": "84.74%",
-    "uptimeMonth": "77.94%",
+    "uptimeDay": "82.36%",
+    "uptimeWeek": "84.70%",
+    "uptimeMonth": "77.93%",
     "uptimeYear": "91.53%",
     "time": 213,
-    "timeDay": 551,
-    "timeWeek": 459,
-    "timeMonth": 384,
+    "timeDay": 534,
+    "timeWeek": 462,
+    "timeMonth": 385,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2026-04-26": 48,
@@ -4532,7 +4532,7 @@
       "2026-07-31": 272,
       "2026-08-01": 503,
       "2026-08-02": 272,
-      "2026-08-03": 34
+      "2026-08-03": 38
     }
   },
   {
@@ -4540,17 +4540,17 @@
     "url": "https://barreras-vehiculares.mx/barrera-vehicular-came-alto-rendimiento-con-brazo-de-hasta-4-mts/p",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-product-2",
-    "status": "down",
+    "status": "up",
     "uptime": "92.40%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "85.21%",
+    "uptimeDay": "82.70%",
+    "uptimeWeek": "85.18%",
     "uptimeMonth": "84.19%",
     "uptimeYear": "92.09%",
-    "time": 203,
-    "timeDay": 584,
+    "time": 204,
+    "timeDay": 537,
     "timeWeek": 438,
-    "timeMonth": 355,
-    "timeYear": 205,
+    "timeMonth": 356,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2026-04-26": 46,
       "2026-04-28": 57,
@@ -4633,7 +4633,7 @@
       "2026-07-31": 267,
       "2026-08-01": 498,
       "2026-08-02": 267,
-      "2026-08-03": 30
+      "2026-08-03": 33
     }
   },
   {
@@ -4641,16 +4641,16 @@
     "url": "https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-service-1-title",
-    "status": "down",
+    "status": "up",
     "uptime": "91.63%",
-    "uptimeDay": "82.81%",
-    "uptimeWeek": "85.69%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "85.66%",
     "uptimeMonth": "78.91%",
     "uptimeYear": "91.63%",
     "time": 219,
-    "timeDay": 349,
-    "timeWeek": 372,
-    "timeMonth": 366,
+    "timeDay": 298,
+    "timeWeek": 360,
+    "timeMonth": 363,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2026-04-26": 46,
@@ -4734,7 +4734,7 @@
       "2026-07-31": 262,
       "2026-08-01": 493,
       "2026-08-02": 262,
-      "2026-08-03": 25
+      "2026-08-03": 28
     }
   },
   {
@@ -4742,17 +4742,17 @@
     "url": "https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-service-1-description",
-    "status": "down",
+    "status": "up",
     "uptime": "92.20%",
-    "uptimeDay": "83.15%",
-    "uptimeWeek": "86.17%",
-    "uptimeMonth": "85.17%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "85.16%",
     "uptimeYear": "92.20%",
-    "time": 202,
-    "timeDay": 383,
-    "timeWeek": 359,
-    "timeMonth": 350,
-    "timeYear": 202,
+    "time": 203,
+    "timeDay": 350,
+    "timeWeek": 354,
+    "timeMonth": 349,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2026-04-26": 44,
       "2026-04-28": 56,
@@ -4834,7 +4834,7 @@
       "2026-07-31": 258,
       "2026-08-01": 488,
       "2026-08-02": 257,
-      "2026-08-03": 20
+      "2026-08-03": 23
     }
   },
   {
@@ -4842,16 +4842,16 @@
     "url": "https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-service-2-title",
-    "status": "down",
+    "status": "up",
     "uptime": "91.95%",
-    "uptimeDay": "83.49%",
-    "uptimeWeek": "86.65%",
-    "uptimeMonth": "79.89%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "86.62%",
+    "uptimeMonth": "79.88%",
     "uptimeYear": "91.87%",
     "time": 207,
-    "timeDay": 390,
-    "timeWeek": 356,
-    "timeMonth": 357,
+    "timeDay": 347,
+    "timeWeek": 350,
+    "timeMonth": 356,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-04-26": 44,
@@ -4935,7 +4935,7 @@
       "2026-07-31": 253,
       "2026-08-01": 483,
       "2026-08-02": 252,
-      "2026-08-03": 15
+      "2026-08-03": 19
     }
   },
   {
@@ -4943,16 +4943,16 @@
     "url": "https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-service-2-description",
-    "status": "down",
+    "status": "up",
     "uptime": "86.17%",
-    "uptimeDay": "83.82%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "86.93%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "86.92%",
     "uptimeYear": "86.02%",
     "time": 197,
-    "timeDay": 340,
-    "timeWeek": 334,
-    "timeMonth": 333,
+    "timeDay": 298,
+    "timeWeek": 326,
+    "timeMonth": 331,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2026-03-01": 69,
@@ -5067,7 +5067,7 @@
       "2026-07-31": 248,
       "2026-08-01": 479,
       "2026-08-02": 248,
-      "2026-08-03": 10
+      "2026-08-03": 14
     }
   },
   {
@@ -5075,16 +5075,16 @@
     "url": "https://barreras-vehiculares.mx/search?q=barrera",
     "icon": "https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png",
     "slug": "barreras-vehiculares-search",
-    "status": "down",
+    "status": "up",
     "uptime": "67.77%",
-    "uptimeDay": "84.16%",
-    "uptimeWeek": "88.02%",
+    "uptimeDay": "84.40%",
+    "uptimeWeek": "87.99%",
     "uptimeMonth": "87.13%",
     "uptimeYear": "67.77%",
     "time": 297,
-    "timeDay": 460,
-    "timeWeek": 400,
-    "timeMonth": 402,
+    "timeDay": 401,
+    "timeWeek": 393,
+    "timeMonth": 400,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2026-02-28": 54,
@@ -5198,7 +5198,7 @@
       "2026-07-31": 243,
       "2026-08-01": 474,
       "2026-08-02": 243,
-      "2026-08-03": 6
+      "2026-08-03": 9
     }
   },
   {
@@ -5289,11 +5289,11 @@
     "icon": "https://res.cloudinary.com/prod/image/upload/w_192/console/favicon.png",
     "slug": "xa-cloudinary-api-rest-ping",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 11560,
     "timeDay": 776,
     "timeWeek": 13961,

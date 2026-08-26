@@ -175,48 +175,6 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Detalles de tu suscripción</title>"
     
-  - name: cajas-de-plastico
-    url: https://cajas-de-plastico.com
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-
-  - name: cajas-de-plastico-api
-    url: https://cajas-de-plastico.com/api/producto/cajas%20de%20plastico
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-
-  - name: cajas-de-plastico-admin-api-batch
-    url: https://cajas-de-plastico.com/modulos/controller/api/v2/batch.php
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    headers:
-    - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
-    - "Content-Type: application/json"
-
-  - name: cajas-de-plastico-admin-api-keywords
-    url: https://cajas-de-plastico.com/modulos/controller/api/v2/keywords.php
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    headers:
-    - "x-heart-beat: $CAJAS_DE_PLASTICO_DOMAIN_SECRET"
-    - "Content-Type: application/json"
-
-  - name: cajas-de-plastico-product-1
-    url: https://cajas-de-plastico.com/contenedor-de-almacenamiento-apilable-rubbermaid/p
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Contenedor de almacenamiento apilable Rubbermaid</title>"
-  
-  - name: cajas-de-plastico-product-2
-    url: https://cajas-de-plastico.com/cajas-de-almacenamiento-con-cerradura-de-24-galones-rubbermaid/p
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Cajas de almacenamiento con cerradura de 24 galones Rubbermaid</title>"
-  
-  - name: cajas-de-plastico-list-1
-    url: https://cajas-de-plastico.com/catalogo-de-cajas-de-almacenamiento-de-la-marca-rubbermaid/l
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>⚡ Cajas de Plástico | catalogo de cajas de almacenamiento de la marca rubbermaid</title>"
-
-  - name: cajas-de-plastico-search
-    url: https://cajas-de-plastico.com/search?q=cajonera
-    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1702584172/assets/favicon/cajas-de-plastico/favicon-2.0.ico
-    __dangerous__body_down_if_text_missing: "<title>Cajas de plastico | Resultados para su búsqueda de cajonera</title>"
-    
   - name: barreras-vehiculares
     url: https://barreras-vehiculares.mx
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png

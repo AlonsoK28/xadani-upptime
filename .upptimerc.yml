@@ -228,24 +228,24 @@ sites:
     __dangerous__body_down_if_text_missing: "<title>Barrera Vehicular  CAME Alto Rendimiento con Brazo de Hasta 4 Mts</title>"
   
   - name: barreras-vehiculares-service-1-title
-    url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
+    url: https://barreras-vehiculares.mx/mantenimiento-de-barreras-vehiculares/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
-    __dangerous__body_down_if_text_missing: "<title>Instalacion de barreras vehiculares</title>"
+    __dangerous__body_down_if_text_missing: "<title>🥇  Mantenimiento de barreras vehiculares ¡¡Las mejores Barreras de control de acceso Vehicular en 2021!! | Barreras Vehiculares</title>"
   
   - name: barreras-vehiculares-service-1-description
-    url: https://barreras-vehiculares.mx/instalacion-de-barreras-vehiculares/s
+    url: https://barreras-vehiculares.mx/mantenimiento-de-barreras-vehiculares/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
-    __dangerous__body_down_if_text_missing: '<meta name="description" content="Instalacion de barreras vehiculares">'
+    __dangerous__body_down_if_text_missing: '<meta name="description" content="✅ Mantenimiento de barreras vehiculares  acceso vehicular | Encuentra y elige equipos de gran calidad y el que mejor se adapte a sus necesidades, tenemos las barreras vehiculares de las mejores marcas del mercado para el perfecto control a sus accesos vehiculares">'
   
   - name: barreras-vehiculares-service-2-title
-    url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
+    url: https://barreras-vehiculares.mx/venta-y-mantenimiento-de-barreras-vehiculares-en-fraccionamientos/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
-    __dangerous__body_down_if_text_missing: "<title>Servicio de instalacion de barreras vehiculares en zonas residenciales</title>"
+    __dangerous__body_down_if_text_missing: "<title>🥇  Venta y mantenimiento de barreras vehiculares en fraccionamientos ¡¡Las mejores Barreras de control de acceso Vehicular en 2021!! | Barreras Vehiculares</title>"
   
   - name: barreras-vehiculares-service-2-description
-    url: https://barreras-vehiculares.mx/servicio-de-instalacion-de-barreras-vehiculares-en-zonas-residenciales/s
+    url: https://barreras-vehiculares.mx/venta-y-mantenimiento-de-barreras-vehiculares-en-fraccionamientos/l
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
-    __dangerous__body_down_if_text_missing: '<meta name="description" content="Servicio de instalacion de barreras vehiculares en zonas residenciales">'
+    __dangerous__body_down_if_text_missing: '<meta name="description" content="✅ Venta y mantenimiento de barreras vehiculares en fraccionamientos  acceso vehicular | Encuentra y elige equipos de gran calidad y el que mejor se adapte a sus necesidades, tenemos las barreras vehiculares de las mejores marcas del mercado para el perfecto control a sus accesos vehiculares">'
 
   - name: barreras-vehiculares-search
     url: https://barreras-vehiculares.mx/search?q=barrera

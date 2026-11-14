@@ -51,9 +51,19 @@ sites:
     url: https://xadani.com.mx/checkout-product/contenedor-mediano/10/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Sterilite Contenedor abierto mediano Transparente · 10 unidades</title>"
+  
+  - name: xadani-checkout-form-by-id-with-quantity-variant
+    url: https://xadani.com.mx/checkout-product/contenedor-mediano/10
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Sterilite Contenedor abierto mediano Transparente · 10 unidades</title>"
 
   - name: xadani-checkout-form-by-id-price-checker-1
     url: https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Empresarial</title>"
+  
+  - name: xadani-checkout-form-by-id-price-checker-1-variant
+    url: https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Empresarial</title>"
 
@@ -64,6 +74,11 @@ sites:
 
   - name: xadani-checkout-form-by-code
     url: https://www.xadani.com.mx/checkout-products/18/21/22/3/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de 4 productos</title>"
+  
+  - name: xadani-checkout-form-by-code-variant
+    url: https://www.xadani.com.mx/checkout-products/18/21/22/3
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de 4 productos</title>"
     
@@ -247,13 +262,28 @@ sites:
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED · 5 unidades</title>"
 
+  - name: barreras-vehiculares-checkout-form-by-id-with-quantity-variant
+    url: https://barreras-vehiculares.mx/checkout-product/semaforo-de-senalizacion-flecha-verde-diametro-30cm-con-luz-led/5
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED · 5 unidades</title>"
+
   - name: barreras-vehiculares-checkout-form-by-id
     url: https://barreras-vehiculares.mx/checkout-product/semaforo-de-senalizacion-flecha-verde-diametro-30cm-con-luz-led/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED</title>"
+  
+  - name: barreras-vehiculares-checkout-form-by-id-variant
+    url: https://barreras-vehiculares.mx/checkout-product/semaforo-de-senalizacion-flecha-verde-diametro-30cm-con-luz-led
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED</title>"
 
   - name: barreras-vehiculares-checkout-form-by-code
     url: https://barreras-vehiculares.mx/checkout-products/916725506/910476040/917532949/911490615/907837777/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de 5 productos</title>"
+
+  - name: barreras-vehiculares-checkout-form-by-code-variant
+    url: https://barreras-vehiculares.mx/checkout-products/916725506/910476040/917532949/911490615/907837777
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de 5 productos</title>"
 

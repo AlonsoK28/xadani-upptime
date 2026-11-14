@@ -42,27 +42,32 @@ sites:
     - "x-heart-beat: $XADANI_DOMAIN_SECRET"
     - "Content-Type: application/json"
 
-  - name: xadani-stripe-checkout-form
+  - name: xadani-checkout-form
     url: https://www.xadani.com.mx/checkout
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra | Xadani Checkout</title>"
 
-  - name: xadani-stripe-checkout-form-by-id-price-checker-1
+  - name: xadani-checkout-form-by-id-with-quantity
+    url: https://xadani.com.mx/checkout-product/contenedor-mediano/10/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Sterilite Contenedor abierto mediano Transparente · 10 unidades</title>"
+
+  - name: xadani-checkout-form-by-id-price-checker-1
     url: https://www.xadani.com.mx/checkout-product/verificador-de-precios-modelo-empresarial/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Empresarial</title>"
 
-  - name: sterilite-stripe-checkout-form-by-id-price-checker-2
+  - name: sterilite-checkout-form-by-id-price-checker-2
     url: https://www.xadani.com.mx/checkout-product/dispositivo-verificador-de-precios-modelo-profesional/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de Dispositivo verificador de precios modelo Profesional</title>"
 
-  - name: xadani-stripe-checkout-form-by-code
+  - name: xadani-checkout-form-by-code
     url: https://www.xadani.com.mx/checkout-products/18/21/22/3/
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Complete su compra de 4 productos</title>"
     
-  - name: xadani-stripe-order-details
+  - name: xadani-order-details
     url: https://www.xadani.com.mx/v2/order-details/pi_3SQGuWPA8RIEn4T31Y9oW0wQ
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1734548123/assets/favicon/xadani/xadani-3.0.ico
     __dangerous__body_down_if_text_missing: "<title>Estimado/a c alonso c ortega falló el pago de su pedido #257586 del 06-11-2025 a las 00:18 AM</title>"
@@ -231,6 +236,26 @@ sites:
     url: https://barreras-vehiculares.mx/search?q=barrera
     icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
     __dangerous__body_down_if_text_missing: "<title>Barreras Vehiculares | Resultados para su búsqueda de barrera</title>"
+
+  - name: barreras-vehiculares-checkout-form
+    url: https://barreras-vehiculares.mx/checkout
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra | Barreras-vehiculares Checkout</title>"
+
+  - name: barreras-vehiculares-checkout-form-by-id-with-quantity
+    url: https://barreras-vehiculares.mx/checkout-product/semaforo-de-senalizacion-flecha-verde-diametro-30cm-con-luz-led/5/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED · 5 unidades</title>"
+
+  - name: barreras-vehiculares-checkout-form-by-id
+    url: https://barreras-vehiculares.mx/checkout-product/semaforo-de-senalizacion-flecha-verde-diametro-30cm-con-luz-led/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de Semáforo de Señalización Flecha Verde, Diametro 30cm con Luz LED</title>"
+
+  - name: barreras-vehiculares-checkout-form-by-code
+    url: https://barreras-vehiculares.mx/checkout-products/916725506/910476040/917532949/911490615/907837777/
+    icon: https://res.cloudinary.com/xadani-mexico/image/upload/v1556505787/assets/favicon/barreras-vehiculares/icono-control-de-acceso-vehicular.png
+    __dangerous__body_down_if_text_missing: "<title>Complete su compra de 5 productos</title>"
 
   - name: verificador-precios
     url: https://verificador-precios.mx
